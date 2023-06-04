@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThirdActivity">
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__left_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      app:layout_constraintGuide_percent="0.1"
+      />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__right_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      app:layout_constraintGuide_percent="0.9"
+      />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__Top_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.1"
+      />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__Top2_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.4"
+      />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__Bottom_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.9"
+      />
+
+  <androidx.constraintlayout.widget.Guideline
+      android:id="@+id/activiti_main__Bottom2_gl"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.5"
+      />
+
+  <TextView
+      android:id="@+id/zadanie"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text=""
+      android:textSize="40sp"
+      app:layout_constraintBottom_toTopOf="@id/activiti_main__Top2_gl"
+      app:layout_constraintLeft_toRightOf="@id/activiti_main__left_gl"
+      app:layout_constraintRight_toLeftOf="@id/activiti_main__right_gl"
+      app:layout_constraintTop_toTopOf="@id/activiti_main__Top_gl"
+      />
+
+  <LinearLayout
+      android:id="@+id/linearLayout"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintLeft_toRightOf="@id/activiti_main__left_gl"
+      app:layout_constraintRight_toLeftOf="@id/activiti_main__right_gl"
+      app:layout_constraintTop_toBottomOf="@id/activiti_main__Top2_gl">
+
+    <Button
+        android:id="@+id/otvet1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:onClick="otvet1Clicked"
+        android:text="" />
+
+    <Button
+        android:id="@+id/otvet2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:onClick="otvet2Clicked"
+        android:text="" />
+
+    <Button
+        android:id="@+id/otvet3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:onClick="otvet3Clicked"
+        android:text="" />
+  </LinearLayout>
+
+
+  <TextView
+      android:id="@+id/Vivod"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text=""
+      android:textSize="30sp"
+      app:layout_constraintBottom_toTopOf="@id/dalshe"
+      app:layout_constraintTop_toBottomOf="@id/activiti_main__Bottom2_gl"
+      app:layout_constraintRight_toLeftOf="@id/activiti_main__right_gl"
+      app:layout_constraintLeft_toRightOf="@id/activiti_main__left_gl" />
+
+  <Button
+      android:id="@+id/dalshe"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Дальше"
+      android:onClick="dalsheClicked"
+      app:layout_constraintBottom_toTopOf="@id/activiti_main__Bottom_gl"
+      app:layout_constraintTop_toBottomOf="@id/Vivod"
+      app:layout_constraintRight_toLeftOf="@id/activiti_main__right_gl"
+      app:layout_constraintLeft_toRightOf="@id/activiti_main__left_gl" />
+
+  <TextView
+      android:id="@+id/verno"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text=""
+      android:textSize="30sp"
+      app:layout_constraintBottom_toTopOf="@id/activiti_main__Top_gl"
+      app:layout_constraintRight_toLeftOf="@id/activiti_main__right_gl"
+       />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
