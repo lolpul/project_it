@@ -1,0 +1,124 @@
+{
+  "decks": [
+    {
+      "id": "engineering",
+      "title": "Engineering & technical interviews",
+      "version": 2,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/engineering.json"
+    },
+    {
+      "id": "embedded-uav",
+      "title": "UAV, embedded & electronics",
+      "version": 2,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/embedded-uav.json"
+    },
+    {
+      "id": "linux-networking",
+      "title": "Linux, Docker & networking",
+      "version": 2,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/linux-networking.json"
+    },
+    {
+      "id": "backend-go",
+      "title": "Go & backend",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/backend-go.json"
+    },
+    {
+      "id": "interview-speaking",
+      "title": "Interview survival & speaking",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/interview-speaking.json"
+    },
+    {
+      "id": "work-communication",
+      "title": "Remote work communication",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/work-communication.json"
+    },
+    {
+      "id": "present-simple",
+      "title": "Present Simple",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/present-simple.json"
+    },
+    {
+      "id": "past-simple",
+      "title": "Past Simple",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/past-simple.json"
+    },
+    {
+      "id": "questions",
+      "title": "Questions",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/questions.json"
+    },
+    {
+      "id": "to-be",
+      "title": "To be",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/to-be.json"
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present Continuous",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/present-continuous.json"
+    },
+    {
+      "id": "future-basics",
+      "title": "Future: will & going to",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/future-basics.json"
+    },
+    {
+      "id": "can-could",
+      "title": "Can, could & polite requests",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/can-could.json"
+    },
+    {
+      "id": "articles",
+      "title": "Articles: a, an, the",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/articles.json"
+    },
+    {
+      "id": "prepositions-tech",
+      "title": "Prepositions for technical English",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/prepositions-tech.json"
+    },
+    {
+      "id": "present-perfect-basics",
+      "title": "Present Perfect basics",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/present-perfect-basics.json"
+    },
+    {
+      "id": "verb-patterns",
+      "title": "Verb + -ing / to + verb",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/verb-patterns.json"
+    },
+    {
+      "id": "conditionals-basics",
+      "title": "Conditionals basics",
+      "version": 1,
+      "kind": "grammar",
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/conditionals-basics.json"
+    }
+  ]
+}
