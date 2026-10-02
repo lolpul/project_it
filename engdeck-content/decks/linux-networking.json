@@ -1,0 +1,387 @@
+{
+  "id": "linux-networking",
+  "title": "Linux, Docker & networking",
+  "description": "Practical systems, VPS, Docker and networking vocabulary for interviews.",
+  "version": 2,
+  "cards": [
+    {
+      "id": "linux-networking-001",
+      "type": "word",
+      "en": "a container",
+      "ru": "контейнер",
+      "ipa": "/ə kənˈteɪnər/",
+      "pronunciationHint": "э кэнтэ́йнэр",
+      "note": "Docker container = контейнер Docker",
+      "tags": [
+        "docker"
+      ]
+    },
+    {
+      "id": "linux-networking-002",
+      "type": "word",
+      "en": "a network",
+      "ru": "сеть",
+      "ipa": "/ə ˈnɛtwɜrk/",
+      "pronunciationHint": "э нэ́туэрк",
+      "note": "networking = работа с сетями",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-003",
+      "type": "phrase",
+      "en": "check the connection",
+      "ru": "проверить соединение",
+      "ipa": "/tʃɛk ðə kəˈnɛkʃən/",
+      "pronunciationHint": "чек зэ кэнэ́кшэн",
+      "note": "connection = соединение",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-004",
+      "type": "phrase",
+      "en": "restart a service",
+      "ru": "перезапустить службу",
+      "ipa": "/riˈstɑrt ə ˈsɜrvɪs/",
+      "pronunciationHint": "риста́рт э сё́рвис",
+      "note": "service = служба",
+      "tags": [
+        "linux"
+      ]
+    },
+    {
+      "id": "linux-networking-005",
+      "type": "sentence",
+      "en": "I work with Linux.",
+      "ru": "Я работаю с Linux.",
+      "ipa": "/aɪ wɜrk wɪð ˈlɪnəks/",
+      "pronunciationHint": "ай уэрк уиз ли́нэкс",
+      "note": "with = с",
+      "tags": [
+        "linux",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-006",
+      "type": "sentence",
+      "en": "I use Docker to run services.",
+      "ru": "Я использую Docker для запуска служб.",
+      "ipa": "/aɪ juz ˈdɑkər tə rʌn ˈsɜrvɪsɪz/",
+      "pronunciationHint": "ай юз да́кэр тэ ран сё́рвисиз",
+      "note": "to run = чтобы запускать",
+      "tags": [
+        "docker",
+        "linux"
+      ]
+    },
+    {
+      "id": "linux-networking-007",
+      "type": "sentence",
+      "en": "Yesterday I fixed a networking issue.",
+      "ru": "Вчера я исправил проблему с сетью.",
+      "ipa": "/ˈjɛstərdeɪ aɪ fɪkst ə ˈnɛtwɜrkɪŋ ˈɪʃu/",
+      "pronunciationHint": "йэ́стэрдэй ай фикст э нэ́туэркинг и́шю",
+      "note": "yesterday → Past Simple",
+      "tags": [
+        "networking",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-008",
+      "type": "sentence",
+      "en": "Do you have experience with Docker?",
+      "ru": "У вас есть опыт работы с Docker?",
+      "ipa": "/du ju hæv ɪkˈspɪriəns wɪð ˈdɑkər/",
+      "pronunciationHint": "ду ю хэв икспи́риэнс уиз да́кэр",
+      "note": "Do you ...? = вопрос Present Simple",
+      "tags": [
+        "docker",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-009",
+      "type": "sentence",
+      "en": "The server is not available.",
+      "ru": "Сервер недоступен.",
+      "ipa": "/ðə ˈsɜrvər ɪz nɑt əˈveɪləbəl/",
+      "pronunciationHint": "зэ сё́рвэр из нот эвэ́йлэбэл",
+      "note": "available = доступный",
+      "tags": [
+        "networking",
+        "linux"
+      ]
+    },
+    {
+      "id": "linux-networking-010",
+      "type": "sentence",
+      "en": "I check the logs before I change the settings.",
+      "ru": "Я проверяю логи перед изменением настроек.",
+      "ipa": "/aɪ tʃɛk ðə lɔɡz bɪˈfɔr aɪ tʃeɪndʒ ðə ˈsɛtɪŋz/",
+      "pronunciationHint": "ай чек зэ логз бифо́р ай чейндж зэ сэ́тингз",
+      "note": "settings = настройки",
+      "tags": [
+        "linux",
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-011",
+      "type": "phrase",
+      "en": "environment variable",
+      "ru": "переменная окружения",
+      "ipa": "/ɪnˈvaɪrənmənt ˈveriəbəl/",
+      "pronunciationHint": "инва́йрэнмэнт вэ́риэбэл",
+      "note": "Often used in Docker and services.",
+      "tags": [
+        "linux",
+        "docker"
+      ]
+    },
+    {
+      "id": "linux-networking-012",
+      "type": "phrase",
+      "en": "configuration file",
+      "ru": "конфигурационный файл",
+      "ipa": "/kənˌfɪɡjəˈreɪʃən faɪl/",
+      "pronunciationHint": "кэнфигьюрэ́йшэн файл",
+      "note": "config file = разговорное сокращение",
+      "tags": [
+        "linux"
+      ]
+    },
+    {
+      "id": "linux-networking-013",
+      "type": "phrase",
+      "en": "reverse proxy",
+      "ru": "обратный прокси",
+      "ipa": "/rɪˈvɜːrs ˈprɑːksi/",
+      "pronunciationHint": "ривёрс про́кси",
+      "note": "Nginx is often used as a reverse proxy.",
+      "tags": [
+        "networking",
+        "linux"
+      ]
+    },
+    {
+      "id": "linux-networking-014",
+      "type": "phrase",
+      "en": "network interface",
+      "ru": "сетевой интерфейс",
+      "ipa": "/ˈnetwɜːrk ˈɪntərfeɪs/",
+      "pronunciationHint": "нэ́творк и́нтэрфэйс",
+      "note": "interface = интерфейс",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-015",
+      "type": "phrase",
+      "en": "IP address",
+      "ru": "IP-адрес",
+      "ipa": "/ˌaɪ ˈpiː əˈdres/",
+      "pronunciationHint": "ай-пи эдрэ́с",
+      "note": "address stress is commonly on the second syllable.",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-016",
+      "type": "phrase",
+      "en": "DNS record",
+      "ru": "DNS-запись",
+      "ipa": "/ˌdiː en ˈes ˈrekərd/",
+      "pronunciationHint": "ди-эн-эс рэ́кэрд",
+      "note": "DNS record = запись DNS",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-017",
+      "type": "phrase",
+      "en": "open a port",
+      "ru": "открыть порт",
+      "ipa": "/ˈoʊpən ə pɔːrt/",
+      "pronunciationHint": "о́упэн э порт",
+      "note": "firewall context",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-018",
+      "type": "phrase",
+      "en": "check the logs",
+      "ru": "проверить логи",
+      "ipa": "/tʃek ðə lɔːɡz/",
+      "pronunciationHint": "чек зэ логз",
+      "note": "Very useful debugging phrase.",
+      "tags": [
+        "linux",
+        "debugging"
+      ]
+    },
+    {
+      "id": "linux-networking-019",
+      "type": "phrase",
+      "en": "restart a container",
+      "ru": "перезапустить контейнер",
+      "ipa": "/ˌriːˈstɑːrt ə kənˈteɪnər/",
+      "pronunciationHint": "риста́рт э кэнтэ́йнэр",
+      "note": "Docker context",
+      "tags": [
+        "docker"
+      ]
+    },
+    {
+      "id": "linux-networking-020",
+      "type": "phrase",
+      "en": "deploy to a VPS",
+      "ru": "развернуть на VPS",
+      "ipa": "/dɪˈplɔɪ tə ə ˌviː piː ˈes/",
+      "pronunciationHint": "дипло́й ту э ви-пи-эс",
+      "note": "deploy = разворачивать",
+      "tags": [
+        "linux",
+        "devops"
+      ]
+    },
+    {
+      "id": "linux-networking-021",
+      "type": "sentence",
+      "en": "I deploy services to Linux VPS servers.",
+      "ru": "Я разворачиваю сервисы на Linux VPS.",
+      "ipa": "/aɪ dɪˈplɔɪ ˈsɜːrvɪsɪz tə ˈlɪnəks ˌviː piː ˈes ˈsɜːrvərz/",
+      "pronunciationHint": "ай дипло́й сё́рвисиз ту ли́нэкс ви-пи-эс сё́рвэрз",
+      "note": "Useful summary phrase.",
+      "tags": [
+        "linux",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-022",
+      "type": "sentence",
+      "en": "I use Docker to isolate and run services.",
+      "ru": "Я использую Docker для изоляции и запуска сервисов.",
+      "ipa": "/aɪ juːz ˈdɑːkər tə ˈaɪsəleɪt ænd rʌn ˈsɜːrvɪsɪz/",
+      "pronunciationHint": "ай юз до́кэр ту а́йсолэйт энд ран сё́рвисиз",
+      "note": "isolate = изолировать",
+      "tags": [
+        "docker",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-023",
+      "type": "sentence",
+      "en": "The service listens on port 8080.",
+      "ru": "Сервис слушает порт 8080.",
+      "ipa": "/ðə ˈsɜːrvɪs ˈlɪsənz ɑːn pɔːrt eɪt ˈoʊ eɪt ˈoʊ/",
+      "pronunciationHint": "зэ сё́рвис ли́сэнз он порт эйт-оу-эйт-оу",
+      "note": "listen on a port",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-024",
+      "type": "sentence",
+      "en": "I check DNS, ports and firewall rules when a service is unavailable.",
+      "ru": "Когда сервис недоступен, я проверяю DNS, порты и правила firewall.",
+      "ipa": "/aɪ tʃek ˌdiː en ˈes pɔːrts ænd ˈfaɪərwɔːl ruːlz wen ə ˈsɜːrvɪs ɪz ˌʌnəˈveɪləbəl/",
+      "pronunciationHint": "ай чек ди-эн-эс, портс энд фа́йэрвол рулз уэн э сё́рвис из анэвэ́йлэбэл",
+      "note": "unavailable = недоступный",
+      "tags": [
+        "networking",
+        "debugging"
+      ]
+    },
+    {
+      "id": "linux-networking-025",
+      "type": "sentence",
+      "en": "I use environment variables for configuration.",
+      "ru": "Я использую переменные окружения для конфигурации.",
+      "ipa": "/aɪ juːz ɪnˈvaɪrənmənt ˈveriəbəlz fɔːr kənˌfɪɡjəˈreɪʃən/",
+      "pronunciationHint": "ай юз инва́йрэнмэнт вэ́риэбэлз фор кэнфигьюрэ́йшэн",
+      "note": "configuration = конфигурация",
+      "tags": [
+        "docker",
+        "backend"
+      ]
+    },
+    {
+      "id": "linux-networking-026",
+      "type": "sentence",
+      "en": "I can connect to a server over SSH.",
+      "ru": "Я могу подключиться к серверу по SSH.",
+      "ipa": "/aɪ kən kəˈnekt tə ə ˈsɜːrvər ˈoʊvər ˌes es ˈeɪtʃ/",
+      "pronunciationHint": "ай кэн кэнэ́кт ту э сё́рвэр о́увэр эс-эс-эйч",
+      "note": "over SSH = по SSH",
+      "tags": [
+        "linux",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-027",
+      "type": "sentence",
+      "en": "I use Nginx as a reverse proxy.",
+      "ru": "Я использую Nginx как reverse proxy.",
+      "ipa": "/aɪ juːz ˈendʒɪn eks æz ə rɪˈvɜːrs ˈprɑːksi/",
+      "pronunciationHint": "ай юз э́нджин-экс эз э ривёрс про́кси",
+      "note": "Nginx is commonly pronounced engine-x.",
+      "tags": [
+        "linux",
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-028",
+      "type": "sentence",
+      "en": "I monitor logs to understand what happens in production.",
+      "ru": "Я слежу за логами, чтобы понимать, что происходит в production.",
+      "ipa": "/aɪ ˈmɑːnɪtər lɔːɡz tə ˌʌndərˈstænd wʌt ˈhæpənz ɪn prəˈdʌkʃən/",
+      "pronunciationHint": "ай ма́нитэр логз ту андэрстэ́нд уот хэ́пэнз ин продакшэн",
+      "note": "production = рабочая среда",
+      "tags": [
+        "linux",
+        "interview"
+      ]
+    },
+    {
+      "id": "linux-networking-029",
+      "type": "sentence",
+      "en": "A timeout can happen when the network is slow or unavailable.",
+      "ru": "Таймаут может возникнуть, когда сеть медленная или недоступна.",
+      "ipa": "/ə ˈtaɪmaʊt kən ˈhæpən wen ðə ˈnetwɜːrk ɪz sloʊ ɔːr ˌʌnəˈveɪləbəl/",
+      "pronunciationHint": "э та́ймаут кэн хэ́пэн уэн зэ нэ́творк из слоу ор анэвэ́йлэбэл",
+      "note": "timeout = таймаут",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "linux-networking-030",
+      "type": "sentence",
+      "en": "I try to reproduce a network issue before I change the configuration.",
+      "ru": "Я стараюсь воспроизвести сетевую проблему перед изменением конфигурации.",
+      "ipa": "/aɪ traɪ tə ˌriːprəˈduːs ə ˈnetwɜːrk ˈɪʃuː bɪˈfɔːr aɪ tʃeɪndʒ ðə kənˌfɪɡjəˈreɪʃən/",
+      "pronunciationHint": "ай трай ту рипрэду́с э нэ́творк и́шью бифо́р ай чейндж зэ кэнфигьюрэ́йшэн",
+      "note": "reproduce an issue",
+      "tags": [
+        "networking",
+        "debugging",
+        "interview"
+      ]
+    }
+  ]
+}
