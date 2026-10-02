@@ -1,0 +1,268 @@
+{
+  "id": "work-communication",
+  "title": "Remote work communication",
+  "description": "Simple phrases for Slack, issues, stand-ups and engineering collaboration.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "work-communication-001",
+      "type": "phrase",
+      "en": "give an update",
+      "ru": "дать обновление по статусу",
+      "ipa": "/ɡɪv ən ˈʌpdeɪt/",
+      "pronunciationHint": "гив эн а́пдэйт",
+      "note": "status update",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-002",
+      "type": "phrase",
+      "en": "ask for clarification",
+      "ru": "попросить уточнение",
+      "ipa": "/æsk fɔːr ˌklerəfəˈkeɪʃən/",
+      "pronunciationHint": "аск фор клэрификэ́йшэн",
+      "note": "clarification = уточнение",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-003",
+      "type": "phrase",
+      "en": "open an issue",
+      "ru": "создать issue",
+      "ipa": "/ˈoʊpən ən ˈɪʃuː/",
+      "pronunciationHint": "о́упэн эн и́шью",
+      "note": "GitHub/Jira context",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-004",
+      "type": "phrase",
+      "en": "push a commit",
+      "ru": "отправить коммит",
+      "ipa": "/pʊʃ ə kəˈmɪt/",
+      "pronunciationHint": "пуш э кэми́т",
+      "note": "commit noun stress on second syllable is common in tech speech.",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-005",
+      "type": "phrase",
+      "en": "review a pull request",
+      "ru": "проверить pull request",
+      "ipa": "/rɪˈvjuː ə pʊl rɪˈkwest/",
+      "pronunciationHint": "ривью́ э пул риквэ́ст",
+      "note": "PR review",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-006",
+      "type": "phrase",
+      "en": "merge a branch",
+      "ru": "слить ветку",
+      "ipa": "/mɜːrdʒ ə bræntʃ/",
+      "pronunciationHint": "мёрдж э брэнч",
+      "note": "Git workflow",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-007",
+      "type": "sentence",
+      "en": "I am working on the networking issue today.",
+      "ru": "Сегодня я работаю над сетевой проблемой.",
+      "ipa": "/aɪ æm ˈwɜːrkɪŋ ɑːn ðə ˈnetwɜːrkɪŋ ˈɪʃuː təˈdeɪ/",
+      "pronunciationHint": "ай эм уо́ркинг он зэ нэ́творкинг и́шью тудэ́й",
+      "note": "stand-up phrase",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-008",
+      "type": "sentence",
+      "en": "I finished the first part and I am testing it now.",
+      "ru": "Я закончил первую часть и сейчас её тестирую.",
+      "ipa": "/aɪ ˈfɪnɪʃt ðə fɜːrst pɑːrt ænd aɪ æm ˈtestɪŋ ɪt naʊ/",
+      "pronunciationHint": "ай фи́ништ зэ фёрст парт энд ай эм тэ́стинг ит нау",
+      "note": "status update",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-009",
+      "type": "sentence",
+      "en": "I am blocked by a hardware issue.",
+      "ru": "Я заблокирован проблемой с оборудованием.",
+      "ipa": "/aɪ æm blɑːkt baɪ ə ˈhɑːrdwer ˈɪʃuː/",
+      "pronunciationHint": "ай эм блокт бай э ха́рдвэр и́шью",
+      "note": "blocked by = не могу продолжить из-за",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-010",
+      "type": "sentence",
+      "en": "I need more information before I can continue.",
+      "ru": "Мне нужно больше информации, прежде чем я смогу продолжить.",
+      "ipa": "/aɪ niːd mɔːr ˌɪnfərˈmeɪʃən bɪˈfɔːr aɪ kən kənˈtɪnjuː/",
+      "pronunciationHint": "ай нид мор информэ́йшэн бифо́р ай кэн кэнти́нью",
+      "note": "Useful when requirements are unclear.",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-011",
+      "type": "sentence",
+      "en": "Could you clarify the expected behavior?",
+      "ru": "Можете уточнить ожидаемое поведение?",
+      "ipa": "/kʊd juː ˈklerəfaɪ ði ɪkˈspektɪd bɪˈheɪvjər/",
+      "pronunciationHint": "куд ю клэ́рифай зи икспэ́ктид бихэ́йвйэр",
+      "note": "expected behavior = ожидаемое поведение",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-012",
+      "type": "sentence",
+      "en": "I pushed a fix and added a test.",
+      "ru": "Я отправил исправление и добавил тест.",
+      "ipa": "/aɪ pʊʃt ə fɪks ænd ˈædɪd ə test/",
+      "pronunciationHint": "ай пушт э фикс энд э́дид э тэст",
+      "note": "Git update",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-013",
+      "type": "sentence",
+      "en": "Please review the pull request when you have time.",
+      "ru": "Пожалуйста, проверьте pull request, когда будет время.",
+      "ipa": "/pliːz rɪˈvjuː ðə pʊl rɪˈkwest wen juː hæv taɪm/",
+      "pronunciationHint": "плиз ривью́ зэ пул риквэ́ст уэн ю хэв тайм",
+      "note": "Polite async request.",
+      "tags": [
+        "work",
+        "github"
+      ]
+    },
+    {
+      "id": "work-communication-014",
+      "type": "sentence",
+      "en": "I agree with this approach because it is simpler.",
+      "ru": "Я согласен с этим подходом, потому что он проще.",
+      "ipa": "/aɪ əˈɡriː wɪð ðɪs əˈproʊtʃ bɪˈkɔːz ɪt ɪz ˈsɪmplər/",
+      "pronunciationHint": "ай эгри́ уиз зис эпро́уч бико́з ит из си́мплэр",
+      "note": "engineering discussion",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-015",
+      "type": "sentence",
+      "en": "I see your point, but I am worried about reliability.",
+      "ru": "Я понимаю вашу точку зрения, но меня беспокоит надёжность.",
+      "ipa": "/aɪ siː jɔːr pɔɪnt bət aɪ æm ˈwɜːrid əˈbaʊt rɪˌlaɪəˈbɪləti/",
+      "pronunciationHint": "ай си йор пойнт, бат ай эм уо́рид эба́ут рилайэби́лити",
+      "note": "Polite disagreement.",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-016",
+      "type": "sentence",
+      "en": "Can we test both options before we decide?",
+      "ru": "Можем ли мы протестировать оба варианта перед решением?",
+      "ipa": "/kən wiː test boʊθ ˈɑːpʃənz bɪˈfɔːr wiː dɪˈsaɪd/",
+      "pronunciationHint": "кэн уи тэст боус о́пшэнз бифо́р уи диса́йд",
+      "note": "Useful engineering compromise.",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-017",
+      "type": "sentence",
+      "en": "I will document the setup after I finish testing.",
+      "ru": "Я задокументирую настройку после завершения тестирования.",
+      "ipa": "/aɪ wɪl ˈdɑːkjəment ðə ˈsetʌp ˈæftər aɪ ˈfɪnɪʃ ˈtestɪŋ/",
+      "pronunciationHint": "ай уил до́кьюмэнт зэ сэ́тап а́фтэр ай фи́ниш тэ́стинг",
+      "note": "future task",
+      "tags": [
+        "work",
+        "documentation"
+      ]
+    },
+    {
+      "id": "work-communication-018",
+      "type": "sentence",
+      "en": "I can join a call if this is easier to discuss verbally.",
+      "ru": "Я могу подключиться к звонку, если это проще обсудить голосом.",
+      "ipa": "/aɪ kən dʒɔɪn ə kɔːl ɪf ðɪs ɪz ˈiːziər tə dɪˈskʌs ˈvɜːrbəli/",
+      "pronunciationHint": "ай кэн джойн э кол иф зис из и́зиэр ту диска́с вёрбэли",
+      "note": "remote team phrase",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-019",
+      "type": "sentence",
+      "en": "I will send a short summary after the call.",
+      "ru": "Я отправлю краткое резюме после звонка.",
+      "ipa": "/aɪ wɪl send ə ʃɔːrt ˈsʌməri ˈæftər ðə kɔːl/",
+      "pronunciationHint": "ай уил сэнд э шорт са́мэри а́фтэр зэ кол",
+      "note": "async follow-up",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    },
+    {
+      "id": "work-communication-020",
+      "type": "sentence",
+      "en": "The task is clear, and I can start today.",
+      "ru": "Задача понятна, и я могу начать сегодня.",
+      "ipa": "/ðə tæsk ɪz klɪr ænd aɪ kən stɑːrt təˈdeɪ/",
+      "pronunciationHint": "зэ таск из клир, энд ай кэн старт тудэ́й",
+      "note": "Simple confirmation.",
+      "tags": [
+        "work",
+        "communication"
+      ]
+    }
+  ]
+}
