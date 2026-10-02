@@ -1,0 +1,77 @@
+{
+  "id": "present-continuous",
+  "title": "Present Continuous",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Present Continuous используем для действия, которое происходит сейчас или вокруг текущего момента: am/is/are + verb-ing. Для постоянной работы обычно нужен Present Simple, а для текущей задачи — Present Continuous.",
+  "examples": [
+    {
+      "en": "I am testing a new flight controller.",
+      "ru": "Я сейчас тестирую новый полётный контроллер."
+    },
+    {
+      "en": "We are debugging the service.",
+      "ru": "Мы сейчас отлаживаем сервис."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ testing the device now.",
+      "answers": [
+        "am",
+        "is",
+        "do",
+        "did"
+      ],
+      "correct": 0,
+      "explanation": "Present Continuous: I am + verb-ing."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The team ___ working on the issue.",
+      "answers": [
+        "am",
+        "is",
+        "are",
+        "do"
+      ],
+      "correct": 1,
+      "explanation": "The team обычно воспринимается как единое целое: is working."
+    },
+    {
+      "type": "fill_blank",
+      "question": "We are ___ the logs. (check)",
+      "acceptedAnswers": [
+        "checking"
+      ],
+      "explanation": "После are используем verb-ing."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I am ___ a new sensor. (integrate)",
+      "acceptedAnswers": [
+        "integrating"
+      ],
+      "explanation": "integrate → integrating."
+    },
+    {
+      "type": "translate",
+      "question": "Сейчас я настраиваю полётный контроллер.",
+      "acceptedAnswers": [
+        "I am configuring the flight controller now.",
+        "I'm configuring the flight controller now."
+      ],
+      "explanation": "Действие происходит сейчас: am configuring."
+    },
+    {
+      "type": "translate",
+      "question": "Мы сейчас тестируем систему.",
+      "acceptedAnswers": [
+        "We are testing the system now.",
+        "We're testing the system now."
+      ],
+      "explanation": "We are + testing."
+    }
+  ]
+}
