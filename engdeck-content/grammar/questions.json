@@ -1,0 +1,75 @@
+{
+  "id": "questions",
+  "title": "Questions",
+  "level": "A2/B1",
+  "version": 1,
+  "explanationRu": "В Present Simple вопросы начинаются с Do/Does + подлежащее + начальная форма глагола. В Past Simple используем Did. С be меняем порядок: Is the server available? Вопросительное слово ставится перед вспомогательным глаголом.",
+  "examples": [
+    {
+      "en": "Do you have experience with Docker?",
+      "ru": "У вас есть опыт работы с Docker?"
+    },
+    {
+      "en": "Did you test the device?",
+      "ru": "Вы проверили устройство?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "___ you work with Linux?",
+      "answers": [
+        "Does",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "correct": 1,
+      "explanation": "С you и смысловым глаголом work используем Do."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "___ the sensor send data?",
+      "answers": [
+        "Do",
+        "Is",
+        "Does",
+        "Has"
+      ],
+      "correct": 2,
+      "explanation": "The sensor = it, поэтому вопрос начинается с Does."
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ you test the device yesterday?",
+      "acceptedAnswers": [
+        "Did"
+      ],
+      "explanation": "Yesterday указывает на Past Simple: Did + test."
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ is the server? It is in the lab.",
+      "acceptedAnswers": [
+        "Where"
+      ],
+      "explanation": "Для вопроса о месте используем Where."
+    },
+    {
+      "type": "translate",
+      "question": "У вас есть опыт работы с Docker?",
+      "acceptedAnswers": [
+        "Do you have experience with Docker?"
+      ],
+      "explanation": "Вопрос Present Simple: Do you have ...?"
+    },
+    {
+      "type": "translate",
+      "question": "Вы проверили устройство?",
+      "acceptedAnswers": [
+        "Did you test the device?"
+      ],
+      "explanation": "Прошедшее действие: Did you test ...?"
+    }
+  ]
+}
