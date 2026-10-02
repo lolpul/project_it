@@ -1,0 +1,77 @@
+{
+  "id": "future-basics",
+  "title": "Future: will & going to",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Will часто используем для решения, обещания или прогноза. Be going to — для уже существующего плана. На работе обе конструкции нужны постоянно.",
+  "examples": [
+    {
+      "en": "I will check the logs.",
+      "ru": "Я проверю логи."
+    },
+    {
+      "en": "I am going to deploy the service tomorrow.",
+      "ru": "Я собираюсь развернуть сервис завтра."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ check the configuration after the call.",
+      "answers": [
+        "will",
+        "did",
+        "am",
+        "have"
+      ],
+      "correct": 0,
+      "explanation": "Решение о будущем действии: will + base verb."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "We are ___ to test the new firmware tomorrow.",
+      "answers": [
+        "go",
+        "going",
+        "gone",
+        "went"
+      ],
+      "correct": 1,
+      "explanation": "План: are going to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I will ___ the result. (verify)",
+      "acceptedAnswers": [
+        "verify"
+      ],
+      "explanation": "После will глагол в начальной форме."
+    },
+    {
+      "type": "fill_blank",
+      "question": "We are going to ___ the service. (deploy)",
+      "acceptedAnswers": [
+        "deploy"
+      ],
+      "explanation": "После going to используем начальную форму."
+    },
+    {
+      "type": "translate",
+      "question": "Я проверю это после встречи.",
+      "acceptedAnswers": [
+        "I will check it after the meeting.",
+        "I'll check it after the meeting."
+      ],
+      "explanation": "will check = проверю."
+    },
+    {
+      "type": "translate",
+      "question": "Я собираюсь протестировать это завтра.",
+      "acceptedAnswers": [
+        "I am going to test it tomorrow.",
+        "I'm going to test it tomorrow."
+      ],
+      "explanation": "План: be going to."
+    }
+  ]
+}
