@@ -1,0 +1,325 @@
+{
+  "id": "interview-speaking",
+  "title": "Interview survival & speaking",
+  "description": "Short phrases for understanding questions and answering clearly on technical calls.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "interview-speaking-001",
+      "type": "sentence",
+      "en": "Could you repeat that, please?",
+      "ru": "Не могли бы вы повторить?",
+      "ipa": "/kʊd juː rɪˈpiːt ðæt pliːz/",
+      "pronunciationHint": "куд ю рипи́т зэт плиз",
+      "note": "Use when you did not hear the question.",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-002",
+      "type": "sentence",
+      "en": "Could you say that a little more slowly?",
+      "ru": "Не могли бы вы сказать это немного медленнее?",
+      "ipa": "/kʊd juː seɪ ðæt ə ˈlɪtəl mɔːr ˈsloʊli/",
+      "pronunciationHint": "куд ю сэй зэт э ли́тэл мор сло́ули",
+      "note": "Useful for fast speech.",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-003",
+      "type": "sentence",
+      "en": "Could you rephrase the question?",
+      "ru": "Можете переформулировать вопрос?",
+      "ipa": "/kʊd juː ˌriːˈfreɪz ðə ˈkwestʃən/",
+      "pronunciationHint": "куд ю рифрэ́йз зэ квэ́счэн",
+      "note": "rephrase = переформулировать",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-004",
+      "type": "sentence",
+      "en": "I understood the first part, but could you repeat the last part?",
+      "ru": "Я понял первую часть, но можете повторить последнюю?",
+      "ipa": "/aɪ ˌʌndərˈstʊd ðə fɜːrst pɑːrt bət kʊd juː rɪˈpiːt ðə læst pɑːrt/",
+      "pronunciationHint": "ай андэрсту́д зэ фёрст парт, бат куд ю рипи́т зэ ласт парт",
+      "note": "Very useful repair phrase.",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-005",
+      "type": "sentence",
+      "en": "If I understood correctly, you are asking about my Linux experience.",
+      "ru": "Если я правильно понял, вы спрашиваете о моём опыте с Linux.",
+      "ipa": "/ɪf aɪ ˌʌndərˈstʊd kəˈrektli juː ɑːr ˈæskɪŋ əˈbaʊt maɪ ˈlɪnəks ɪkˈspɪriəns/",
+      "pronunciationHint": "иф ай андэрсту́д кэрэ́ктли, ю ар а́скинг эба́ут май ли́нэкс икспи́риэнс",
+      "note": "Confirm the question before answering.",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-006",
+      "type": "sentence",
+      "en": "Give me a moment to think.",
+      "ru": "Дайте мне минуту подумать.",
+      "ipa": "/ɡɪv miː ə ˈmoʊmənt tə θɪŋk/",
+      "pronunciationHint": "гив ми э мо́умэнт ту синк",
+      "note": "Natural pause phrase.",
+      "tags": [
+        "interview",
+        "speaking"
+      ]
+    },
+    {
+      "id": "interview-speaking-007",
+      "type": "sentence",
+      "en": "I have not worked with this directly, but I know the basic idea.",
+      "ru": "Я не работал с этим напрямую, но знаю основную идею.",
+      "ipa": "/aɪ hæv nɑːt wɜːrkt wɪð ðɪs dəˈrektli bət aɪ noʊ ðə ˈbeɪsɪk aɪˈdiːə/",
+      "pronunciationHint": "ай хэв нот уоркт уиз зис дирэ́ктли, бат ай ноу зэ бэ́йсик айди́а",
+      "note": "Useful when experience is limited.",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-008",
+      "type": "sentence",
+      "en": "I am not sure, so I would check the documentation first.",
+      "ru": "Я не уверен, поэтому сначала проверил бы документацию.",
+      "ipa": "/aɪ æm nɑːt ʃʊr soʊ aɪ wʊd tʃek ðə ˌdɑːkjəmenˈteɪʃən fɜːrst/",
+      "pronunciationHint": "ай эм нот шур, соу ай вуд чек зэ докьюмэнтэ́йшэн фёрст",
+      "note": "Better than guessing.",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-009",
+      "type": "sentence",
+      "en": "My main responsibility is integrating and testing UAV systems.",
+      "ru": "Моя основная обязанность — интеграция и тестирование систем БПЛА.",
+      "ipa": "/maɪ meɪn rɪˌspɑːnsəˈbɪləti ɪz ˈɪntəɡreɪtɪŋ ænd ˈtestɪŋ ˌjuː eɪ ˈviː ˈsɪstəmz/",
+      "pronunciationHint": "май мэйн риспонсэби́лити из и́нтигрэйтинг энд тэ́стинг ю-эй-ви си́стэмз",
+      "note": "current job answer",
+      "tags": [
+        "interview",
+        "uav"
+      ]
+    },
+    {
+      "id": "interview-speaking-010",
+      "type": "sentence",
+      "en": "I work with both hardware and software.",
+      "ru": "Я работаю и с железом, и с программным обеспечением.",
+      "ipa": "/aɪ wɜːrk wɪð boʊθ ˈhɑːrdwer ænd ˈsɔːftwer/",
+      "pronunciationHint": "ай уорк уиз боус ха́рдвэр энд со́фтвэр",
+      "note": "both A and B",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-011",
+      "type": "sentence",
+      "en": "I personally built the integration and configuration part.",
+      "ru": "Лично я сделал часть интеграции и настройки.",
+      "ipa": "/aɪ ˈpɜːrsənəli bɪlt ði ˌɪntəɡˈreɪʃən ænd kənˌfɪɡjəˈreɪʃən pɑːrt/",
+      "pronunciationHint": "ай пёрсэнэли билт зи интэгрэ́йшэн энд кэнфигьюрэ́йшэн парт",
+      "note": "personal contribution",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-012",
+      "type": "sentence",
+      "en": "The hardest part was finding the root cause of an unstable connection.",
+      "ru": "Самой сложной частью был поиск первопричины нестабильного соединения.",
+      "ipa": "/ðə ˈhɑːrdəst pɑːrt wəz ˈfaɪndɪŋ ðə ruːt kɔːz əv ən ʌnˈsteɪbəl kəˈnekʃən/",
+      "pronunciationHint": "зэ ха́рдэст парт уоз фа́йндинг зэ рут коз ов эн анстэ́йбэл кэнэ́кшэн",
+      "note": "bug story",
+      "tags": [
+        "interview",
+        "debugging"
+      ]
+    },
+    {
+      "id": "interview-speaking-013",
+      "type": "sentence",
+      "en": "I reproduced the issue, checked the logs and tested one change at a time.",
+      "ru": "Я воспроизвёл проблему, проверил логи и тестировал по одному изменению за раз.",
+      "ipa": "/aɪ ˌriːprəˈduːst ði ˈɪʃuː tʃekt ðə lɔːɡz ænd ˈtestɪd wʌn tʃeɪndʒ æt ə taɪm/",
+      "pronunciationHint": "ай рипрэду́ст зи и́шью, чэкт зэ логз энд тэ́стид уан чейндж эт э тайм",
+      "note": "Good debugging sequence.",
+      "tags": [
+        "interview",
+        "debugging"
+      ]
+    },
+    {
+      "id": "interview-speaking-014",
+      "type": "sentence",
+      "en": "The problem was caused by a wrong configuration.",
+      "ru": "Проблема была вызвана неправильной конфигурацией.",
+      "ipa": "/ðə ˈprɑːbləm wəz kɔːzd baɪ ə rɔːŋ kənˌfɪɡjəˈreɪʃən/",
+      "pronunciationHint": "зэ пра́блэм уоз козд бай э ронг кэнфигьюрэ́йшэн",
+      "note": "was caused by",
+      "tags": [
+        "interview",
+        "debugging"
+      ]
+    },
+    {
+      "id": "interview-speaking-015",
+      "type": "sentence",
+      "en": "After the fix, I ran the tests again and verified the result.",
+      "ru": "После исправления я снова запустил тесты и проверил результат.",
+      "ipa": "/ˈæftər ðə fɪks aɪ ræn ðə tests əˈɡen ænd ˈverəfaɪd ðə rɪˈzʌlt/",
+      "pronunciationHint": "а́фтэр зэ фикс, ай рэн зэ тэстс эгэ́н энд вэ́рифайд зэ ризա́лт",
+      "note": "verify = подтвердить проверкой",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-016",
+      "type": "sentence",
+      "en": "I made a mistake because I changed too many things at once.",
+      "ru": "Я допустил ошибку, потому что изменил слишком много вещей одновременно.",
+      "ipa": "/aɪ meɪd ə mɪˈsteɪk bɪˈkɔːz aɪ tʃeɪndʒd tuː ˈmeni θɪŋz æt wʌns/",
+      "pronunciationHint": "ай мэйд э мистэ́йк бико́з ай чейнджд ту мэ́ни сингз эт уанс",
+      "note": "failure story",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-017",
+      "type": "sentence",
+      "en": "I learned to change one variable at a time and document the result.",
+      "ru": "Я научился менять по одной переменной и записывать результат.",
+      "ipa": "/aɪ lɜːrnd tə tʃeɪndʒ wʌn ˈveriəbəl æt ə taɪm ænd ˈdɑːkjəment ðə rɪˈzʌlt/",
+      "pronunciationHint": "ай лёрнд ту чейндж уан вэ́риэбэл эт э тайм энд до́кьюмэнт зэ ризա́лт",
+      "note": "lesson learned",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-018",
+      "type": "sentence",
+      "en": "I chose this architecture because it is simple to deploy and maintain.",
+      "ru": "Я выбрал эту архитектуру, потому что её просто разворачивать и поддерживать.",
+      "ipa": "/aɪ tʃoʊz ðɪs ˈɑːrkətektʃər bɪˈkɔːz ɪt ɪz ˈsɪmpəl tə dɪˈplɔɪ ænd meɪnˈteɪn/",
+      "pronunciationHint": "ай чоуз зис а́ркитэкчэр бико́з ит из си́мпэл ту дипло́й энд мэйнтэ́йн",
+      "note": "architecture answer",
+      "tags": [
+        "interview",
+        "architecture"
+      ]
+    },
+    {
+      "id": "interview-speaking-019",
+      "type": "sentence",
+      "en": "The trade-off is that this solution uses more memory.",
+      "ru": "Компромисс в том, что это решение использует больше памяти.",
+      "ipa": "/ðə ˈtreɪd ɔːf ɪz ðæt ðɪs səˈluːʃən ˈjuːzɪz mɔːr ˈmeməri/",
+      "pronunciationHint": "зэ трэ́йд-оф из зэт зис сэлу́шэн ю́зиз мор мэ́мэри",
+      "note": "trade-off = компромисс",
+      "tags": [
+        "interview",
+        "architecture"
+      ]
+    },
+    {
+      "id": "interview-speaking-020",
+      "type": "sentence",
+      "en": "I would start by reproducing the problem.",
+      "ru": "Я бы начал с воспроизведения проблемы.",
+      "ipa": "/aɪ wʊd stɑːrt baɪ ˌriːprəˈduːsɪŋ ðə ˈprɑːbləm/",
+      "pronunciationHint": "ай вуд старт бай рипрэду́синг зэ пра́блэм",
+      "note": "hypothetical debugging",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "interview-speaking-021",
+      "type": "sentence",
+      "en": "My English is still improving, but I can read documentation and discuss technical problems.",
+      "ru": "Мой английский всё ещё улучшается, но я могу читать документацию и обсуждать технические проблемы.",
+      "ipa": "/maɪ ˈɪŋɡlɪʃ ɪz stɪl ɪmˈpruːvɪŋ bət aɪ kən riːd ˌdɑːkjəmenˈteɪʃən ænd dɪˈskʌs ˈteknɪkəl ˈprɑːbləmz/",
+      "pronunciationHint": "май и́нглиш из стил импру́винг, бат ай кэн рид докьюмэнтэ́йшэн энд диска́с тэ́кникэл пра́блэмз",
+      "note": "Honest and useful.",
+      "tags": [
+        "interview",
+        "english"
+      ]
+    },
+    {
+      "id": "interview-speaking-022",
+      "type": "sentence",
+      "en": "I am comfortable using written English in issues and team chats.",
+      "ru": "Мне комфортно использовать письменный английский в issues и командных чатах.",
+      "ipa": "/aɪ æm ˈkʌmftəbəl ˈjuːzɪŋ ˈrɪtən ˈɪŋɡlɪʃ ɪn ˈɪʃuːz ænd tiːm tʃæts/",
+      "pronunciationHint": "ай эм ка́мфтэбэл ю́зинг ри́тэн и́нглиш ин и́шьюз энд тим чэтс",
+      "note": "remote-work answer",
+      "tags": [
+        "interview",
+        "english"
+      ]
+    },
+    {
+      "id": "interview-speaking-023",
+      "type": "sentence",
+      "en": "I am looking for a remote engineering role where I can grow technically.",
+      "ru": "Я ищу удалённую инженерную роль, где смогу технически развиваться.",
+      "ipa": "/aɪ æm ˈlʊkɪŋ fɔːr ə rɪˈmoʊt ˌendʒəˈnɪrɪŋ roʊl wer aɪ kən ɡroʊ ˈteknɪkli/",
+      "pronunciationHint": "ай эм лу́кинг фор э римо́ут энджини́ринг роул уэр ай кэн гроу тэ́кникли",
+      "note": "motivation answer",
+      "tags": [
+        "interview",
+        "career"
+      ]
+    },
+    {
+      "id": "interview-speaking-024",
+      "type": "sentence",
+      "en": "My salary expectation depends on the role and responsibilities.",
+      "ru": "Мои зарплатные ожидания зависят от роли и обязанностей.",
+      "ipa": "/maɪ ˈsæləri ˌekspekˈteɪʃən dɪˈpendz ɑːn ðə roʊl ænd rɪˌspɑːnsəˈbɪlətiz/",
+      "pronunciationHint": "май сэ́лэри экспэктэ́йшэн дипэ́ндз он зэ роул энд риспонсэби́литиз",
+      "note": "salary discussion",
+      "tags": [
+        "interview",
+        "salary"
+      ]
+    },
+    {
+      "id": "interview-speaking-025",
+      "type": "sentence",
+      "en": "Could you tell me more about the team and the technical challenges?",
+      "ru": "Можете рассказать больше о команде и технических задачах?",
+      "ipa": "/kʊd juː tel miː mɔːr əˈbaʊt ðə tiːm ænd ðə ˈteknɪkəl ˈtʃælɪndʒɪz/",
+      "pronunciationHint": "куд ю тэл ми мор эба́ут зэ тим энд зэ тэ́кникэл чэ́линджиз",
+      "note": "Question to employer.",
+      "tags": [
+        "interview",
+        "questions"
+      ]
+    }
+  ]
+}
