@@ -1,0 +1,76 @@
+{
+  "id": "conditionals-basics",
+  "title": "Conditionals basics",
+  "level": "B1",
+  "version": 1,
+  "explanationRu": "Для технических обсуждений достаточно сначала освоить два шаблона. Zero conditional: If + Present, Present — постоянный результат. First conditional: If + Present, will + verb — реальная будущая ситуация.",
+  "examples": [
+    {
+      "en": "If the voltage is too low, the device restarts.",
+      "ru": "Если напряжение слишком низкое, устройство перезапускается."
+    },
+    {
+      "en": "If the test fails, I will check the logs.",
+      "ru": "Если тест упадёт, я проверю логи."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "If the service fails, I ___ check the logs.",
+      "answers": [
+        "will",
+        "did",
+        "am",
+        "have"
+      ],
+      "correct": 0,
+      "explanation": "Реальное будущее условие: if + Present, will + verb."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If two goroutines access shared data without synchronization, a race condition ___.",
+      "answers": [
+        "can occur",
+        "occurred",
+        "is occurring yesterday",
+        "will occurred"
+      ],
+      "correct": 0,
+      "explanation": "Общее техническое следствие: can occur."
+    },
+    {
+      "type": "fill_blank",
+      "question": "If the server is unavailable, I will ___ DNS first. (check)",
+      "acceptedAnswers": [
+        "check"
+      ],
+      "explanation": "После will — базовая форма."
+    },
+    {
+      "type": "fill_blank",
+      "question": "If the voltage is too low, the system ___ unstable. (become)",
+      "acceptedAnswers": [
+        "becomes"
+      ],
+      "explanation": "Zero conditional: Present Simple в обеих частях."
+    },
+    {
+      "type": "translate",
+      "question": "Если сервис не запустится, я проверю логи.",
+      "acceptedAnswers": [
+        "If the service does not start, I will check the logs.",
+        "If the service doesn't start, I'll check the logs."
+      ],
+      "explanation": "if + Present, will + verb."
+    },
+    {
+      "type": "translate",
+      "question": "Если соединение нестабильно, данные могут потеряться.",
+      "acceptedAnswers": [
+        "If the connection is unstable, data can be lost."
+      ],
+      "explanation": "Общее следствие: can be lost."
+    }
+  ]
+}
