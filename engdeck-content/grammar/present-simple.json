@@ -1,0 +1,76 @@
+{
+  "id": "present-simple",
+  "title": "Present Simple",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Present Simple описывает регулярные действия и факты. I/you/we/they + глагол. He/she/it + глагол с -s. Для отрицания: do not / does not + начальная форма глагола.",
+  "examples": [
+    {
+      "en": "I work with Linux.",
+      "ru": "Я работаю с Linux."
+    },
+    {
+      "en": "The sensor sends data every second.",
+      "ru": "Датчик отправляет данные каждую секунду."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ with ArduPilot every day.",
+      "answers": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correct": 0,
+      "explanation": "После I в Present Simple используем work без -s."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The device ___ data every second.",
+      "answers": [
+        "send",
+        "sending",
+        "sends",
+        "sent"
+      ],
+      "correct": 2,
+      "explanation": "The device = it, поэтому к send добавляем -s."
+    },
+    {
+      "type": "fill_blank",
+      "question": "She ___ code every day.",
+      "acceptedAnswers": [
+        "writes"
+      ],
+      "explanation": "She требует форму writes в Present Simple."
+    },
+    {
+      "type": "fill_blank",
+      "question": "We ___ not use this library.",
+      "acceptedAnswers": [
+        "do"
+      ],
+      "explanation": "С we отрицание строится с do not."
+    },
+    {
+      "type": "translate",
+      "question": "Я работаю с Linux.",
+      "acceptedAnswers": [
+        "I work with Linux."
+      ],
+      "explanation": "Регулярное действие: I work with Linux."
+    },
+    {
+      "type": "translate",
+      "question": "Я не использую Docker.",
+      "acceptedAnswers": [
+        "I do not use Docker.",
+        "I don't use Docker."
+      ],
+      "explanation": "После do not глагол use стоит в начальной форме."
+    }
+  ]
+}
