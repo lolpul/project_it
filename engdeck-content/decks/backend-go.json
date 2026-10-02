@@ -1,0 +1,330 @@
+{
+  "id": "backend-go",
+  "title": "Go & backend",
+  "description": "Go, HTTP, APIs, concurrency and backend vocabulary at A2/B1.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "backend-go-001",
+      "type": "word",
+      "en": "a request",
+      "ru": "запрос",
+      "ipa": "/ə rɪˈkwest/",
+      "pronunciationHint": "э риквэ́ст",
+      "note": "HTTP request",
+      "tags": [
+        "backend",
+        "http"
+      ]
+    },
+    {
+      "id": "backend-go-002",
+      "type": "word",
+      "en": "a response",
+      "ru": "ответ",
+      "ipa": "/ə rɪˈspɑːns/",
+      "pronunciationHint": "э риспа́нс",
+      "note": "HTTP response",
+      "tags": [
+        "backend",
+        "http"
+      ]
+    },
+    {
+      "id": "backend-go-003",
+      "type": "phrase",
+      "en": "HTTP handler",
+      "ru": "HTTP-обработчик",
+      "ipa": "/ˌeɪtʃ tiː tiː ˈpiː ˈhændlər/",
+      "pronunciationHint": "эйч-ти-ти-пи хэ́ндлэр",
+      "note": "handler handles a request",
+      "tags": [
+        "golang",
+        "backend"
+      ]
+    },
+    {
+      "id": "backend-go-004",
+      "type": "phrase",
+      "en": "error handling",
+      "ru": "обработка ошибок",
+      "ipa": "/ˈerər ˈhændlɪŋ/",
+      "pronunciationHint": "э́рэр хэ́ндлинг",
+      "note": "handle errors explicitly",
+      "tags": [
+        "golang",
+        "backend"
+      ]
+    },
+    {
+      "id": "backend-go-005",
+      "type": "phrase",
+      "en": "return an error",
+      "ru": "вернуть ошибку",
+      "ipa": "/rɪˈtɜːrn ən ˈerər/",
+      "pronunciationHint": "ритёрн эн э́рэр",
+      "note": "Go functions often return errors.",
+      "tags": [
+        "golang"
+      ]
+    },
+    {
+      "id": "backend-go-006",
+      "type": "phrase",
+      "en": "goroutine",
+      "ru": "горутина",
+      "ipa": "/ˈɡoʊruːtiːn/",
+      "pronunciationHint": "гоурути́н",
+      "note": "Lightweight concurrent function in Go.",
+      "tags": [
+        "golang",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "backend-go-007",
+      "type": "phrase",
+      "en": "mutex",
+      "ru": "мьютекс",
+      "ipa": "/ˈmjuːteks/",
+      "pronunciationHint": "мью́тэкс",
+      "note": "Protects shared state.",
+      "tags": [
+        "golang",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "backend-go-008",
+      "type": "phrase",
+      "en": "race condition",
+      "ru": "состояние гонки",
+      "ipa": "/reɪs kənˈdɪʃən/",
+      "pronunciationHint": "рэйс кэнди́шэн",
+      "note": "Concurrent access bug.",
+      "tags": [
+        "golang",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "backend-go-009",
+      "type": "phrase",
+      "en": "shared state",
+      "ru": "общее состояние",
+      "ipa": "/ʃerd steɪt/",
+      "pronunciationHint": "шэрд стэйт",
+      "note": "state shared between goroutines",
+      "tags": [
+        "golang",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "backend-go-010",
+      "type": "phrase",
+      "en": "cancel an operation",
+      "ru": "отменить операцию",
+      "ipa": "/ˈkænsəl ən ˌɑːpəˈreɪʃən/",
+      "pronunciationHint": "кэ́нсэл эн опэрэ́йшэн",
+      "note": "context can cancel work",
+      "tags": [
+        "golang"
+      ]
+    },
+    {
+      "id": "backend-go-011",
+      "type": "sentence",
+      "en": "I use Go for backend and networking tasks.",
+      "ru": "Я использую Go для backend- и сетевых задач.",
+      "ipa": "/aɪ juːz ɡoʊ fɔːr ˈbækend ænd ˈnetwɜːrkɪŋ tæsks/",
+      "pronunciationHint": "ай юз гоу фор бэ́кэнд энд нэ́творкинг таскс",
+      "note": "Simple Why Go context.",
+      "tags": [
+        "golang",
+        "interview"
+      ]
+    },
+    {
+      "id": "backend-go-012",
+      "type": "sentence",
+      "en": "I like Go because it is simple and has good concurrency tools.",
+      "ru": "Мне нравится Go, потому что он простой и имеет хорошие инструменты concurrency.",
+      "ipa": "/aɪ laɪk ɡoʊ bɪˈkɔːz ɪt ɪz ˈsɪmpəl ænd hæz ɡʊd kənˈkɜːrənsi tuːlz/",
+      "pronunciationHint": "ай лайк гоу бико́з ит из си́мпэл энд хэз гуд кэнкё́рэнси тулз",
+      "note": "Useful Why Go answer.",
+      "tags": [
+        "golang",
+        "interview"
+      ]
+    },
+    {
+      "id": "backend-go-013",
+      "type": "sentence",
+      "en": "The handler receives a request and returns a response.",
+      "ru": "Обработчик получает запрос и возвращает ответ.",
+      "ipa": "/ðə ˈhændlər rɪˈsiːvz ə rɪˈkwest ænd rɪˈtɜːrnz ə rɪˈspɑːns/",
+      "pronunciationHint": "зэ хэ́ндлэр риси́вз э риквэ́ст энд ритёрнз э риспа́нс",
+      "note": "receive / return",
+      "tags": [
+        "backend",
+        "http"
+      ]
+    },
+    {
+      "id": "backend-go-014",
+      "type": "sentence",
+      "en": "I always check returned errors in Go.",
+      "ru": "Я всегда проверяю возвращаемые ошибки в Go.",
+      "ipa": "/aɪ ˈɔːlweɪz tʃek rɪˈtɜːrnd ˈerərz ɪn ɡoʊ/",
+      "pronunciationHint": "ай о́лвэйз чек ритёрнд э́рэрз ин гоу",
+      "note": "returned error = возвращённая ошибка",
+      "tags": [
+        "golang"
+      ]
+    },
+    {
+      "id": "backend-go-015",
+      "type": "sentence",
+      "en": "A mutex protects shared data from concurrent access.",
+      "ru": "Мьютекс защищает общие данные от одновременного доступа.",
+      "ipa": "/ə ˈmjuːteks prəˈtekts ʃerd ˈdeɪtə frəm kənˈkɜːrənt ˈækses/",
+      "pronunciationHint": "э мью́тэкс протэ́ктс шэрд дэ́йта фрэм кэнкё́рэнт э́ксэс",
+      "note": "Core concurrency explanation.",
+      "tags": [
+        "golang",
+        "concurrency",
+        "interview"
+      ]
+    },
+    {
+      "id": "backend-go-016",
+      "type": "sentence",
+      "en": "I use context to propagate cancellation and deadlines.",
+      "ru": "Я использую context для передачи отмены и дедлайнов.",
+      "ipa": "/aɪ juːz ˈkɑːntekst tə ˈprɑːpəɡeɪt ˌkænsəˈleɪʃən ænd ˈdedlaɪnz/",
+      "pronunciationHint": "ай юз ко́нтэкст ту про́пэгэйт кэнсэлэ́йшэн энд дэ́длайнз",
+      "note": "propagate = передавать дальше",
+      "tags": [
+        "golang",
+        "interview"
+      ]
+    },
+    {
+      "id": "backend-go-017",
+      "type": "sentence",
+      "en": "I write small tests for important logic.",
+      "ru": "Я пишу небольшие тесты для важной логики.",
+      "ipa": "/aɪ raɪt smɔːl tests fɔːr ɪmˈpɔːrtənt ˈlɑːdʒɪk/",
+      "pronunciationHint": "ай райт смол тэстс фор импո́ртэнт ло́джик",
+      "note": "unit-test context",
+      "tags": [
+        "golang",
+        "testing"
+      ]
+    },
+    {
+      "id": "backend-go-018",
+      "type": "sentence",
+      "en": "I try to keep interfaces small.",
+      "ru": "Я стараюсь делать интерфейсы небольшими.",
+      "ipa": "/aɪ traɪ tə kiːp ˈɪntərfeɪsɪz smɔːl/",
+      "pronunciationHint": "ай трай ту кип и́нтэрфэйсиз смол",
+      "note": "Go interfaces are often small.",
+      "tags": [
+        "golang"
+      ]
+    },
+    {
+      "id": "backend-go-019",
+      "type": "sentence",
+      "en": "I use JSON for API requests and responses.",
+      "ru": "Я использую JSON для запросов и ответов API.",
+      "ipa": "/aɪ juːz ˈdʒeɪsən fɔːr ˌeɪ piː ˈaɪ rɪˈkwests ænd rɪˈspɑːnsɪz/",
+      "pronunciationHint": "ай юз джэ́йсэн фор эй-пи-ай риквэ́стс энд риспа́нсиз",
+      "note": "JSON pronunciation varies; jay-sun is common.",
+      "tags": [
+        "backend",
+        "api"
+      ]
+    },
+    {
+      "id": "backend-go-020",
+      "type": "sentence",
+      "en": "I use timeouts for external network calls.",
+      "ru": "Я использую таймауты для внешних сетевых вызовов.",
+      "ipa": "/aɪ juːz ˈtaɪmaʊts fɔːr ɪkˈstɜːrnəl ˈnetwɜːrk kɔːlz/",
+      "pronunciationHint": "ай юз та́ймаутс фор икстё́рнэл нэ́творк колз",
+      "note": "external call = внешний вызов",
+      "tags": [
+        "backend",
+        "networking"
+      ]
+    },
+    {
+      "id": "backend-go-021",
+      "type": "sentence",
+      "en": "If two goroutines modify the same data, I need synchronization.",
+      "ru": "Если две горутины изменяют одни и те же данные, нужна синхронизация.",
+      "ipa": "/ɪf tuː ˈɡoʊruːtiːnz ˈmɑːdəfaɪ ðə seɪm ˈdeɪtə aɪ niːd ˌsɪŋkrənəˈzeɪʃən/",
+      "pronunciationHint": "иф ту гоурэти́нз ма́дифай зэ сэйм дэ́йта, ай нид синкрэна́йзэйшэн",
+      "note": "modify = изменять",
+      "tags": [
+        "golang",
+        "concurrency"
+      ]
+    },
+    {
+      "id": "backend-go-022",
+      "type": "sentence",
+      "en": "I prefer explicit error handling to hidden failures.",
+      "ru": "Я предпочитаю явную обработку ошибок скрытым сбоям.",
+      "ipa": "/aɪ prɪˈfɜːr ɪkˈsplɪsɪt ˈerər ˈhændlɪŋ tə ˈhɪdən ˈfeɪljərz/",
+      "pronunciationHint": "ай прифёр икспли́сит э́рэр хэ́ндлинг ту хи́дэн фэ́йлйэрз",
+      "note": "explicit = явный",
+      "tags": [
+        "golang",
+        "interview"
+      ]
+    },
+    {
+      "id": "backend-go-023",
+      "type": "sentence",
+      "en": "I can explain what this function does step by step.",
+      "ru": "Я могу пошагово объяснить, что делает эта функция.",
+      "ipa": "/aɪ kən ɪkˈspleɪn wʌt ðɪs ˈfʌŋkʃən dʌz step baɪ step/",
+      "pronunciationHint": "ай кэн иксплэ́йн уот зис фа́нкшэн даз стэп бай стэп",
+      "note": "Useful during code review interview.",
+      "tags": [
+        "interview",
+        "code"
+      ]
+    },
+    {
+      "id": "backend-go-024",
+      "type": "sentence",
+      "en": "I first make it work, then I improve the design.",
+      "ru": "Сначала я делаю рабочее решение, затем улучшаю дизайн.",
+      "ipa": "/aɪ fɜːrst meɪk ɪt wɜːrk ðen aɪ ɪmˈpruːv ðə dɪˈzaɪn/",
+      "pronunciationHint": "ай фёрст мэйк ит уорк, зэн ай импру́в зэ диза́йн",
+      "note": "Simple engineering process phrase.",
+      "tags": [
+        "interview",
+        "software"
+      ]
+    },
+    {
+      "id": "backend-go-025",
+      "type": "sentence",
+      "en": "I use logs and tests to debug backend problems.",
+      "ru": "Я использую логи и тесты для отладки backend-проблем.",
+      "ipa": "/aɪ juːz lɔːɡz ænd tests tə ˌdiːˈbʌɡ ˈbækend ˈprɑːbləmz/",
+      "pronunciationHint": "ай юз логз энд тэстс ту диба́г бэ́кэнд пра́блэмз",
+      "note": "debug = отлаживать",
+      "tags": [
+        "backend",
+        "debugging"
+      ]
+    }
+  ]
+}
