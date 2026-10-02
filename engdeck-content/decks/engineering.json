@@ -1,0 +1,445 @@
+{
+  "id": "engineering",
+  "title": "Engineering & technical interviews",
+  "description": "Core A2/B1 engineering vocabulary and interview phrases for a software/UAV engineer.",
+  "version": 2,
+  "cards": [
+    {
+      "id": "engineering-001",
+      "type": "word",
+      "en": "software",
+      "ru": "программное обеспечение",
+      "ipa": "/ˈsɔftwer/",
+      "pronunciationHint": "со́фтвэр",
+      "note": "Software is usually uncountable.",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-002",
+      "type": "word",
+      "en": "hardware",
+      "ru": "аппаратное обеспечение",
+      "ipa": "/ˈhɑrdwer/",
+      "pronunciationHint": "ха́рдвэр",
+      "note": "Hardware refers to physical equipment.",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "engineering-003",
+      "type": "word",
+      "en": "a requirement",
+      "ru": "требование",
+      "ipa": "/ə rɪˈkwaɪərmənt/",
+      "pronunciationHint": "э риква́йэрмэнт",
+      "note": "requirements = требования",
+      "tags": [
+        "software",
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-004",
+      "type": "word",
+      "en": "a bug",
+      "ru": "ошибка в программе",
+      "ipa": "/ə bʌɡ/",
+      "pronunciationHint": "э баг",
+      "note": "fix a bug = исправить ошибку",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-005",
+      "type": "word",
+      "en": "a deadline",
+      "ru": "крайний срок",
+      "ipa": "/ə ˈdɛdlaɪn/",
+      "pronunciationHint": "э дэ́длайн",
+      "note": "meet a deadline = уложиться в срок",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-006",
+      "type": "phrase",
+      "en": "write code",
+      "ru": "писать код",
+      "ipa": "/raɪt koʊd/",
+      "pronunciationHint": "райт коуд",
+      "note": "write — wrote — written",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-007",
+      "type": "phrase",
+      "en": "run tests",
+      "ru": "запускать тесты",
+      "ipa": "/rʌn tɛsts/",
+      "pronunciationHint": "ран тэстс",
+      "note": "run — ran — run",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-008",
+      "type": "phrase",
+      "en": "review a change",
+      "ru": "проверить изменение",
+      "ipa": "/rɪˈvju ə tʃeɪndʒ/",
+      "pronunciationHint": "ривью́ э чейндж",
+      "note": "review = проверять, рецензировать",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-009",
+      "type": "phrase",
+      "en": "solve a problem",
+      "ru": "решить проблему",
+      "ipa": "/sɑlv ə ˈprɑbləm/",
+      "pronunciationHint": "солв э пра́блэм",
+      "note": "solve = решать",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-010",
+      "type": "phrase",
+      "en": "work in a team",
+      "ru": "работать в команде",
+      "ipa": "/wɜrk ɪn ə tim/",
+      "pronunciationHint": "уэрк ин э тим",
+      "note": "in a team = в команде",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-011",
+      "type": "sentence",
+      "en": "I write software for small devices.",
+      "ru": "Я пишу программы для небольших устройств.",
+      "ipa": "/aɪ raɪt ˈsɔftwer fər smɔl dɪˈvaɪsɪz/",
+      "pronunciationHint": "ай райт со́фтвэр фэр смол дива́йсиз",
+      "note": "device = устройство",
+      "tags": [
+        "software",
+        "embedded"
+      ]
+    },
+    {
+      "id": "engineering-012",
+      "type": "sentence",
+      "en": "I use Git every day.",
+      "ru": "Я использую Git каждый день.",
+      "ipa": "/aɪ juz ɡɪt ˈɛvri deɪ/",
+      "pronunciationHint": "ай юз гит э́ври дэй",
+      "note": "every day = каждый день",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-013",
+      "type": "sentence",
+      "en": "I test my code before a release.",
+      "ru": "Я тестирую свой код перед выпуском.",
+      "ipa": "/aɪ tɛst maɪ koʊd bɪˈfɔr ə rɪˈlis/",
+      "pronunciationHint": "ай тэст май коуд бифо́р э рили́с",
+      "note": "release = выпуск, релиз",
+      "tags": [
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-014",
+      "type": "sentence",
+      "en": "Yesterday I fixed a bug.",
+      "ru": "Вчера я исправил ошибку.",
+      "ipa": "/ˈjɛstərdeɪ aɪ fɪkst ə bʌɡ/",
+      "pronunciationHint": "йэ́стэрдэй ай фикст э баг",
+      "note": "fixed = исправил (Past Simple)",
+      "tags": [
+        "software",
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-015",
+      "type": "sentence",
+      "en": "I can explain my design.",
+      "ru": "Я могу объяснить своё решение.",
+      "ipa": "/aɪ kən ɪkˈspleɪn maɪ dɪˈzaɪn/",
+      "pronunciationHint": "ай кэн иксплэ́йн май диза́йн",
+      "note": "design = проект, решение",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-016",
+      "type": "sentence",
+      "en": "I have experience with Go.",
+      "ru": "У меня есть опыт работы с Go.",
+      "ipa": "/aɪ hæv ɪkˈspɪriəns wɪð ɡoʊ/",
+      "pronunciationHint": "ай хэв икспи́риэнс уиз гоу",
+      "note": "experience with = опыт работы с",
+      "tags": [
+        "software",
+        "interview",
+        "golang"
+      ]
+    },
+    {
+      "id": "engineering-017",
+      "type": "sentence",
+      "en": "Could you repeat the question?",
+      "ru": "Не могли бы вы повторить вопрос?",
+      "ipa": "/kʊd ju rɪˈpit ðə ˈkwɛstʃən/",
+      "pronunciationHint": "куд ю рипи́т зэ квэ́счэн",
+      "note": "Polite request in an interview.",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-018",
+      "type": "sentence",
+      "en": "Let me think for a moment.",
+      "ru": "Дайте мне немного подумать.",
+      "ipa": "/lɛt mi θɪŋk fər ə ˈmoʊmənt/",
+      "pronunciationHint": "лэт ми синк фэр э мо́умэнт",
+      "note": "let me = позвольте мне",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-019",
+      "type": "sentence",
+      "en": "I do not know, but I can check.",
+      "ru": "Я не знаю, но могу проверить.",
+      "ipa": "/aɪ du nɑt noʊ bət aɪ kən tʃɛk/",
+      "pronunciationHint": "ай ду нот ноу бэт ай кэн чек",
+      "note": "do not = don’t",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-020",
+      "type": "sentence",
+      "en": "We need a simple and reliable solution.",
+      "ru": "Нам нужно простое и надёжное решение.",
+      "ipa": "/wi nid ə ˈsɪmpəl ænd rɪˈlaɪəbəl səˈluʃən/",
+      "pronunciationHint": "уи нид э си́мпэл энд рила́йэбэл сэлу́шэн",
+      "note": "reliable = надёжный",
+      "tags": [
+        "software",
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-021",
+      "type": "phrase",
+      "en": "engineering background",
+      "ru": "инженерный опыт / бэкграунд",
+      "ipa": "/ˌendʒəˈnɪrɪŋ ˈbækɡraʊnd/",
+      "pronunciationHint": "энджини́ринг бэ́кграунд",
+      "note": "Useful in Tell me about yourself.",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-022",
+      "type": "phrase",
+      "en": "be responsible for",
+      "ru": "отвечать за",
+      "ipa": "/bi rɪˈspɑːnsəbəl fɔːr/",
+      "pronunciationHint": "би риспа́нсэбэл фор",
+      "note": "I am responsible for testing.",
+      "tags": [
+        "interview",
+        "work"
+      ]
+    },
+    {
+      "id": "engineering-023",
+      "type": "phrase",
+      "en": "work on a project",
+      "ru": "работать над проектом",
+      "ipa": "/wɜːrk ɑːn ə ˈprɑːdʒekt/",
+      "pronunciationHint": "уорк он э пра́джект",
+      "note": "work on = работать над",
+      "tags": [
+        "interview",
+        "work"
+      ]
+    },
+    {
+      "id": "engineering-024",
+      "type": "phrase",
+      "en": "build from scratch",
+      "ru": "создать с нуля",
+      "ipa": "/bɪld frəm skrætʃ/",
+      "pronunciationHint": "билд фрэм скрэч",
+      "note": "I built it from scratch.",
+      "tags": [
+        "interview",
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-025",
+      "type": "phrase",
+      "en": "make a decision",
+      "ru": "принять решение",
+      "ipa": "/meɪk ə dɪˈsɪʒən/",
+      "pronunciationHint": "мэйк э диси́жэн",
+      "note": "engineering decision = инженерное решение",
+      "tags": [
+        "interview",
+        "work"
+      ]
+    },
+    {
+      "id": "engineering-026",
+      "type": "phrase",
+      "en": "explain the architecture",
+      "ru": "объяснить архитектуру",
+      "ipa": "/ɪkˈspleɪn ði ˈɑːrkətektʃər/",
+      "pronunciationHint": "иксплэ́йн зи а́ркитэкчэр",
+      "note": "architecture = архитектура системы",
+      "tags": [
+        "interview",
+        "software"
+      ]
+    },
+    {
+      "id": "engineering-027",
+      "type": "sentence",
+      "en": "I usually start with a simple solution.",
+      "ru": "Обычно я начинаю с простого решения.",
+      "ipa": "/aɪ ˈjuːʒuəli stɑːrt wɪð ə ˈsɪmpəl səˈluːʃən/",
+      "pronunciationHint": "ай ю́жуэли старт уиз э си́мпэл сэлу́шэн",
+      "note": "usually + Present Simple",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-028",
+      "type": "sentence",
+      "en": "I try to understand the root cause first.",
+      "ru": "Сначала я стараюсь понять первопричину.",
+      "ipa": "/aɪ traɪ tə ˌʌndərˈstænd ðə ruːt kɔːz fɜːrst/",
+      "pronunciationHint": "ай трай ту андэрстэ́нд зэ рут коз фёрст",
+      "note": "root cause = первопричина",
+      "tags": [
+        "interview",
+        "debugging"
+      ]
+    },
+    {
+      "id": "engineering-029",
+      "type": "sentence",
+      "en": "I can learn a new tool quickly.",
+      "ru": "Я могу быстро освоить новый инструмент.",
+      "ipa": "/aɪ kən lɜːrn ə nuː tuːl ˈkwɪkli/",
+      "pronunciationHint": "ай кэн лёрн э нью тул кви́кли",
+      "note": "learn a tool = освоить инструмент",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-030",
+      "type": "sentence",
+      "en": "I use AI tools to speed up routine work.",
+      "ru": "Я использую AI-инструменты, чтобы ускорить рутинную работу.",
+      "ipa": "/aɪ juːz ˌeɪˈaɪ tuːlz tə spiːd ʌp ruːˈtiːn wɜːrk/",
+      "pronunciationHint": "ай юз эй-ай тулз ту спид ап рути́н уорк",
+      "note": "Be ready to explain how you verify results.",
+      "tags": [
+        "interview",
+        "ai"
+      ]
+    },
+    {
+      "id": "engineering-031",
+      "type": "sentence",
+      "en": "I review generated code before I use it.",
+      "ru": "Я проверяю сгенерированный код перед использованием.",
+      "ipa": "/aɪ rɪˈvjuː ˈdʒenəreɪtɪd koʊd bɪˈfɔːr aɪ juːz ɪt/",
+      "pronunciationHint": "ай ривью́ дже́нэрэйтид коуд бифо́р ай юз ит",
+      "note": "review = проверять",
+      "tags": [
+        "interview",
+        "ai"
+      ]
+    },
+    {
+      "id": "engineering-032",
+      "type": "sentence",
+      "en": "If I do not know something, I check the documentation.",
+      "ru": "Если я чего-то не знаю, я проверяю документацию.",
+      "ipa": "/ɪf aɪ duː nɑːt noʊ ˈsʌmθɪŋ aɪ tʃek ðə ˌdɑːkjəmenˈteɪʃən/",
+      "pronunciationHint": "иф ай ду нот ноу са́мсинг, ай чек зэ докьюмэнтэ́йшэн",
+      "note": "Good interview phrase.",
+      "tags": [
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-033",
+      "type": "sentence",
+      "en": "I prefer clear and maintainable code.",
+      "ru": "Я предпочитаю понятный и поддерживаемый код.",
+      "ipa": "/aɪ prɪˈfɜːr klɪr ænd meɪnˈteɪnəbəl koʊd/",
+      "pronunciationHint": "ай прифёр клир энд мэйнтэ́йнэбэл коуд",
+      "note": "maintainable = удобный для поддержки",
+      "tags": [
+        "software",
+        "interview"
+      ]
+    },
+    {
+      "id": "engineering-034",
+      "type": "sentence",
+      "en": "I can work independently and ask for help when needed.",
+      "ru": "Я могу работать самостоятельно и просить помощь, когда это нужно.",
+      "ipa": "/aɪ kən wɜːrk ˌɪndɪˈpendəntli ænd æsk fɔːr help wen ˈniːdɪd/",
+      "pronunciationHint": "ай кэн уорк индэпэ́ндэнтли энд аск фор хэлп уэн ни́дид",
+      "note": "independently = самостоятельно",
+      "tags": [
+        "interview",
+        "work"
+      ]
+    },
+    {
+      "id": "engineering-035",
+      "type": "sentence",
+      "en": "I want to grow as a systems software engineer.",
+      "ru": "Я хочу развиваться как systems software engineer.",
+      "ipa": "/aɪ wɑːnt tə ɡroʊ æz ə ˈsɪstəmz ˈsɔːftwer ˌendʒəˈnɪr/",
+      "pronunciationHint": "ай уонт ту гроу эз э си́стэмз со́фтвэр энджини́р",
+      "note": "Useful for motivation questions.",
+      "tags": [
+        "interview",
+        "career"
+      ]
+    }
+  ]
+}
