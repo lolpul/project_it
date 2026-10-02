@@ -1,0 +1,76 @@
+{
+  "id": "articles",
+  "title": "Articles: a, an, the",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "A/an используем, когда говорим об одном объекте впервые или в общем смысле. The — когда объект уже известен или конкретен. С неисчисляемыми словами вроде software часто артикль не нужен.",
+  "examples": [
+    {
+      "en": "I found a bug.",
+      "ru": "Я нашёл ошибку."
+    },
+    {
+      "en": "The bug was in the configuration.",
+      "ru": "Эта ошибка была в конфигурации."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I found ___ issue in the service.",
+      "answers": [
+        "a",
+        "an",
+        "the",
+        "—"
+      ],
+      "correct": 1,
+      "explanation": "Issue начинается с гласного звука: an issue."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "___ issue was caused by a wrong port.",
+      "answers": [
+        "A",
+        "An",
+        "The",
+        "—"
+      ],
+      "correct": 2,
+      "explanation": "Мы уже говорим о конкретной проблеме: the issue."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I use ___ Raspberry Pi for this prototype.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "explanation": "Один Raspberry Pi, упоминаемый впервые: a."
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ software runs on Linux.",
+      "acceptedAnswers": [
+        "The"
+      ],
+      "explanation": "Если речь о конкретном ПО в контексте, используем the."
+    },
+    {
+      "type": "translate",
+      "question": "Я нашёл ошибку в конфигурации.",
+      "acceptedAnswers": [
+        "I found an error in the configuration.",
+        "I found a bug in the configuration."
+      ],
+      "explanation": "error/bug — исчисляемые существительные."
+    },
+    {
+      "type": "translate",
+      "question": "Сервер использует Linux.",
+      "acceptedAnswers": [
+        "The server uses Linux."
+      ],
+      "explanation": "Конкретный сервер: the server; перед Linux артикль не нужен."
+    }
+  ]
+}
