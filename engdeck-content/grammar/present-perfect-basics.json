@@ -1,0 +1,77 @@
+{
+  "id": "present-perfect-basics",
+  "title": "Present Perfect basics",
+  "level": "A2/B1",
+  "version": 1,
+  "explanationRu": "Present Perfect связывает прошлый опыт с настоящим: have/has + past participle. Для интервью особенно полезна конструкция I have worked with... и вопросы Have you ever...?. Не используем Present Perfect с конкретным законченным временем вроде yesterday.",
+  "examples": [
+    {
+      "en": "I have worked with Linux for several years.",
+      "ru": "Я работаю с Linux уже несколько лет."
+    },
+    {
+      "en": "I have never used Kubernetes in production.",
+      "ru": "Я никогда не использовал Kubernetes в production."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ worked with Docker.",
+      "answers": [
+        "have",
+        "did",
+        "am",
+        "was"
+      ],
+      "correct": 0,
+      "explanation": "Present Perfect: have + worked."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Have you ever ___ this tool?",
+      "answers": [
+        "use",
+        "used",
+        "using",
+        "uses"
+      ],
+      "correct": 1,
+      "explanation": "После have нужен past participle: used."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I have ___ this issue before. (see)",
+      "acceptedAnswers": [
+        "seen"
+      ],
+      "explanation": "see → saw → seen."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I have never ___ Kubernetes in production. (use)",
+      "acceptedAnswers": [
+        "used"
+      ],
+      "explanation": "have + used."
+    },
+    {
+      "type": "translate",
+      "question": "Я раньше работал с FastAPI.",
+      "acceptedAnswers": [
+        "I have worked with FastAPI before.",
+        "I've worked with FastAPI before."
+      ],
+      "explanation": "Опыт без конкретного времени: Present Perfect."
+    },
+    {
+      "type": "translate",
+      "question": "Я никогда не работал с этим напрямую.",
+      "acceptedAnswers": [
+        "I have never worked with this directly.",
+        "I've never worked with this directly."
+      ],
+      "explanation": "never + Present Perfect."
+    }
+  ]
+}
