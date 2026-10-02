@@ -1,0 +1,77 @@
+{
+  "id": "prepositions-tech",
+  "title": "Prepositions for technical English",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Предлоги лучше учить готовыми связками: work with, work on, connect to, listen on a port, deploy to a server, run in a container, communicate over UART.",
+  "examples": [
+    {
+      "en": "I work with Linux.",
+      "ru": "Я работаю с Linux."
+    },
+    {
+      "en": "The service runs in a container.",
+      "ru": "Сервис работает в контейнере."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I work ___ ArduPilot.",
+      "answers": [
+        "on",
+        "with",
+        "at",
+        "to"
+      ],
+      "correct": 1,
+      "explanation": "work with a technology."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The service listens ___ port 8080.",
+      "answers": [
+        "in",
+        "at",
+        "on",
+        "with"
+      ],
+      "correct": 2,
+      "explanation": "listen on a port."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I connect ___ the server over SSH.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "explanation": "connect to a server."
+    },
+    {
+      "type": "fill_blank",
+      "question": "The application runs ___ a Docker container.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "explanation": "run in a container."
+    },
+    {
+      "type": "translate",
+      "question": "Я работаю над VPN-проектом.",
+      "acceptedAnswers": [
+        "I work on a VPN project.",
+        "I am working on a VPN project."
+      ],
+      "explanation": "work on a project."
+    },
+    {
+      "type": "translate",
+      "question": "Сервис развёрнут на VPS.",
+      "acceptedAnswers": [
+        "The service is deployed to a VPS.",
+        "The service is deployed on a VPS."
+      ],
+      "explanation": "Обе формулировки употребляются; to акцентирует развёртывание, on — расположение."
+    }
+  ]
+}
