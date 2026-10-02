@@ -1,0 +1,77 @@
+{
+  "id": "to-be",
+  "title": "To be",
+  "level": "A1/A2",
+  "version": 1,
+  "explanationRu": "Глагол to be нужен, когда мы говорим, кем или каким является объект. В настоящем времени: I am, you/we/they are, he/she/it is. В отрицании добавляем not. В вопросе am/is/are ставим перед подлежащим.",
+  "examples": [
+    {
+      "en": "I am an engineer.",
+      "ru": "Я инженер."
+    },
+    {
+      "en": "The server is available.",
+      "ru": "Сервер доступен."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ an engineer.",
+      "answers": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "correct": 0,
+      "explanation": "После I используем am."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The flight controller ___ connected.",
+      "answers": [
+        "am",
+        "are",
+        "is",
+        "be"
+      ],
+      "correct": 2,
+      "explanation": "The flight controller = it, поэтому is."
+    },
+    {
+      "type": "fill_blank",
+      "question": "We ___ ready to test the system.",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "explanation": "После we используем are."
+    },
+    {
+      "type": "fill_blank",
+      "question": "The server ___ not available.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "explanation": "The server = it, поэтому is not."
+    },
+    {
+      "type": "translate",
+      "question": "Я инженер-разработчик.",
+      "acceptedAnswers": [
+        "I am an engineer.",
+        "I'm an engineer."
+      ],
+      "explanation": "I + am. Сокращение I'm тоже допустимо."
+    },
+    {
+      "type": "translate",
+      "question": "Сервис недоступен.",
+      "acceptedAnswers": [
+        "The service is unavailable.",
+        "The service is not available."
+      ],
+      "explanation": "Оба варианта естественны."
+    }
+  ]
+}
