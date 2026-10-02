@@ -1,0 +1,77 @@
+{
+  "id": "can-could",
+  "title": "Can, could & polite requests",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Can используем для способности и возможности. Could — для прошлого значения can и для более вежливых просьб. На интервью could особенно полезен, когда нужно попросить повторить или переформулировать вопрос.",
+  "examples": [
+    {
+      "en": "I can work with Linux.",
+      "ru": "Я умею работать с Linux."
+    },
+    {
+      "en": "Could you repeat the question?",
+      "ru": "Не могли бы вы повторить вопрос?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I ___ configure ArduPilot.",
+      "answers": [
+        "can",
+        "am",
+        "do",
+        "have"
+      ],
+      "correct": 0,
+      "explanation": "Способность: can + base verb."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "___ you repeat that, please?",
+      "answers": [
+        "Can to",
+        "Could",
+        "Are",
+        "Did"
+      ],
+      "correct": 1,
+      "explanation": "Could you... — вежливая просьба."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I ___ help with this task.",
+      "acceptedAnswers": [
+        "can"
+      ],
+      "explanation": "can + base verb."
+    },
+    {
+      "type": "fill_blank",
+      "question": "___ you say that more slowly?",
+      "acceptedAnswers": [
+        "Could",
+        "Can"
+      ],
+      "explanation": "Обе формы допустимы, Could звучит чуть вежливее."
+    },
+    {
+      "type": "translate",
+      "question": "Я могу объяснить архитектуру.",
+      "acceptedAnswers": [
+        "I can explain the architecture."
+      ],
+      "explanation": "can + explain."
+    },
+    {
+      "type": "translate",
+      "question": "Можете переформулировать вопрос?",
+      "acceptedAnswers": [
+        "Could you rephrase the question?",
+        "Can you rephrase the question?"
+      ],
+      "explanation": "Could you... — полезная конструкция для интервью."
+    }
+  ]
+}
