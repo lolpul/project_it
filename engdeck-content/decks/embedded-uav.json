@@ -1,0 +1,388 @@
+{
+  "id": "embedded-uav",
+  "title": "UAV, embedded & electronics",
+  "description": "ArduPilot, INAV, flight controllers, sensors, SBCs and hands-on electronics.",
+  "version": 2,
+  "cards": [
+    {
+      "id": "embedded-uav-001",
+      "type": "word",
+      "en": "a sensor",
+      "ru": "датчик",
+      "ipa": "/ə ˈsɛnsər/",
+      "pronunciationHint": "э сэ́нсэр",
+      "note": "read a sensor = читать показания датчика",
+      "tags": [
+        "embedded",
+        "hardware"
+      ]
+    },
+    {
+      "id": "embedded-uav-002",
+      "type": "word",
+      "en": "firmware",
+      "ru": "прошивка",
+      "ipa": "/ˈfɜrmwer/",
+      "pronunciationHint": "фё́рмвэр",
+      "note": "Firmware runs on a device.",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-003",
+      "type": "phrase",
+      "en": "a flight controller",
+      "ru": "полётный контроллер",
+      "ipa": "/ə flaɪt kənˈtroʊlər/",
+      "pronunciationHint": "э флайт кэнтро́улэр",
+      "note": "controller = контроллер",
+      "tags": [
+        "uav",
+        "hardware"
+      ]
+    },
+    {
+      "id": "embedded-uav-004",
+      "type": "phrase",
+      "en": "a serial port",
+      "ru": "последовательный порт",
+      "ipa": "/ə ˈsɪriəl pɔrt/",
+      "pronunciationHint": "э си́риэл порт",
+      "note": "serial = последовательный",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-005",
+      "type": "sentence",
+      "en": "I configure flight controllers.",
+      "ru": "Я настраиваю полётные контроллеры.",
+      "ipa": "/aɪ kənˈfɪɡjər flaɪt kənˈtroʊlərz/",
+      "pronunciationHint": "ай кэнфи́гйэр флайт кэнтро́улэрз",
+      "note": "configure = настраивать",
+      "tags": [
+        "uav",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-006",
+      "type": "sentence",
+      "en": "I work with ArduPilot.",
+      "ru": "Я работаю с ArduPilot.",
+      "ipa": "/aɪ wɜrk wɪð ˈɑrduˌpaɪlət/",
+      "pronunciationHint": "ай уэрк уиз а́рду-па́йлэт",
+      "note": "work with = работать с",
+      "tags": [
+        "uav"
+      ]
+    },
+    {
+      "id": "embedded-uav-007",
+      "type": "sentence",
+      "en": "The sensor sends data every second.",
+      "ru": "Датчик отправляет данные каждую секунду.",
+      "ipa": "/ðə ˈsɛnsər sɛndz ˈdeɪtə ˈɛvri ˈsɛkənd/",
+      "pronunciationHint": "зэ сэ́нсэр сэндз дэ́йтэ э́ври сэ́кэнд",
+      "note": "sends: he/she/it + -s",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-008",
+      "type": "sentence",
+      "en": "I read the logs to find the issue.",
+      "ru": "Я читаю логи, чтобы найти проблему.",
+      "ipa": "/aɪ rid ðə lɔɡz tə faɪnd ði ˈɪʃu/",
+      "pronunciationHint": "ай рид зэ логз тэ файнд зи и́шю",
+      "note": "issue = проблема",
+      "tags": [
+        "embedded",
+        "uav"
+      ]
+    },
+    {
+      "id": "embedded-uav-009",
+      "type": "sentence",
+      "en": "We tested the device on the bench.",
+      "ru": "Мы проверили устройство на стенде.",
+      "ipa": "/wi ˈtɛstɪd ðə dɪˈvaɪs ɑn ðə bɛntʃ/",
+      "pronunciationHint": "уи тэ́стид зэ дива́йс он зэ бэнч",
+      "note": "on the bench = на испытательном стенде",
+      "tags": [
+        "embedded",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-010",
+      "type": "sentence",
+      "en": "The battery voltage is too low.",
+      "ru": "Напряжение батареи слишком низкое.",
+      "ipa": "/ðə ˈbætəri ˈvoʊltɪdʒ ɪz tu loʊ/",
+      "pronunciationHint": "зэ бэ́тэри во́ултидж из ту лоу",
+      "note": "voltage = напряжение",
+      "tags": [
+        "uav",
+        "hardware"
+      ]
+    },
+    {
+      "id": "embedded-uav-011",
+      "type": "phrase",
+      "en": "single-board computer",
+      "ru": "одноплатный компьютер",
+      "ipa": "/ˌsɪŋɡəl bɔːrd kəmˈpjuːtər/",
+      "pronunciationHint": "си́нгл-борд кэмпью́тэр",
+      "note": "SBC = single-board computer",
+      "tags": [
+        "embedded",
+        "hardware"
+      ]
+    },
+    {
+      "id": "embedded-uav-012",
+      "type": "phrase",
+      "en": "solder a wire",
+      "ru": "припаять провод",
+      "ipa": "/ˈsɑːdər ə waɪər/",
+      "pronunciationHint": "са́дэр э уа́йэр",
+      "note": "American English often drops the l in solder.",
+      "tags": [
+        "hardware",
+        "electronics"
+      ]
+    },
+    {
+      "id": "embedded-uav-013",
+      "type": "phrase",
+      "en": "wiring diagram",
+      "ru": "схема подключения",
+      "ipa": "/ˈwaɪərɪŋ ˈdaɪəɡræm/",
+      "pronunciationHint": "уа́йэринг да́йэгрэм",
+      "note": "diagram = схема",
+      "tags": [
+        "hardware",
+        "electronics"
+      ]
+    },
+    {
+      "id": "embedded-uav-014",
+      "type": "phrase",
+      "en": "power supply",
+      "ru": "источник питания",
+      "ipa": "/ˈpaʊər səˌplaɪ/",
+      "pronunciationHint": "па́уэр сэпла́й",
+      "note": "power supply = питание / БП",
+      "tags": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "embedded-uav-015",
+      "type": "phrase",
+      "en": "voltage regulator",
+      "ru": "регулятор напряжения",
+      "ipa": "/ˈvoʊltɪdʒ ˈreɡjəleɪtər/",
+      "pronunciationHint": "во́ултидж рэ́гьюлэйтэр",
+      "note": "regulator = регулятор",
+      "tags": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "embedded-uav-016",
+      "type": "phrase",
+      "en": "current consumption",
+      "ru": "потребление тока",
+      "ipa": "/ˈkɜːrənt kənˈsʌmpʃən/",
+      "pronunciationHint": "кё́рэнт кэнса́мпшэн",
+      "note": "consumption = потребление",
+      "tags": [
+        "electronics"
+      ]
+    },
+    {
+      "id": "embedded-uav-017",
+      "type": "phrase",
+      "en": "serial interface",
+      "ru": "последовательный интерфейс",
+      "ipa": "/ˈsɪriəl ˈɪntərfeɪs/",
+      "pronunciationHint": "си́риэл и́нтэрфэйс",
+      "note": "UART is a serial interface.",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-018",
+      "type": "phrase",
+      "en": "I2C bus",
+      "ru": "шина I2C",
+      "ipa": "/ˌaɪ tuː ˈsiː bʌs/",
+      "pronunciationHint": "ай-ту-си бас",
+      "note": "bus = шина",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-019",
+      "type": "phrase",
+      "en": "UART connection",
+      "ru": "UART-соединение",
+      "ipa": "/ˈjuːɑːrt kəˈnekʃən/",
+      "pronunciationHint": "ю-арт кэнэ́кшэн",
+      "note": "connection = соединение",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-020",
+      "type": "phrase",
+      "en": "flight mission",
+      "ru": "полётное задание / миссия",
+      "ipa": "/flaɪt ˈmɪʃən/",
+      "pronunciationHint": "флайт ми́шэн",
+      "note": "set up a flight mission",
+      "tags": [
+        "uav"
+      ]
+    },
+    {
+      "id": "embedded-uav-021",
+      "type": "sentence",
+      "en": "I integrate sensors with the flight controller.",
+      "ru": "Я интегрирую датчики с полётным контроллером.",
+      "ipa": "/aɪ ˈɪntəɡreɪt ˈsensərz wɪð ðə flaɪt kənˈtroʊlər/",
+      "pronunciationHint": "ай и́нтигрэйт сэ́нсэрз уиз зэ флайт кэнтро́улэр",
+      "note": "integrate A with B",
+      "tags": [
+        "uav",
+        "embedded",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-022",
+      "type": "sentence",
+      "en": "I work with Raspberry Pi and Orange Pi computers.",
+      "ru": "Я работаю с Raspberry Pi и Orange Pi.",
+      "ipa": "/aɪ wɜːrk wɪð ˈræzbəri paɪ ænd ˈɔːrɪndʒ paɪ kəmˈpjuːtərz/",
+      "pronunciationHint": "ай уорк уиз рэ́збэри пай энд о́риндж пай кэмпью́тэрз",
+      "note": "SBC experience.",
+      "tags": [
+        "embedded",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-023",
+      "type": "sentence",
+      "en": "I configure ArduPilot and INAV for different aircraft.",
+      "ru": "Я настраиваю ArduPilot и INAV для разных летательных аппаратов.",
+      "ipa": "/aɪ kənˈfɪɡjər ˈɑːrduˌpaɪlət ænd ˈaɪnæv fɔːr ˈdɪfrənt ˈerkræft/",
+      "pronunciationHint": "ай кэнфи́гйэр а́рду-па́йлэт энд ай-нæв фор ди́фрэнт э́ркрафт",
+      "note": "aircraft can be singular or plural.",
+      "tags": [
+        "uav",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-024",
+      "type": "sentence",
+      "en": "I set up flight missions and test them on the bench first.",
+      "ru": "Я настраиваю полётные миссии и сначала тестирую их на стенде.",
+      "ipa": "/aɪ set ʌp flaɪt ˈmɪʃənz ænd test ðem ɑːn ðə bentʃ fɜːrst/",
+      "pronunciationHint": "ай сэт ап флайт ми́шэнз энд тэст зэм он зэ бэнч фёрст",
+      "note": "set up = настроить",
+      "tags": [
+        "uav",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-025",
+      "type": "sentence",
+      "en": "The flight controller communicates with the onboard computer over UART.",
+      "ru": "Полётный контроллер обменивается данными с бортовым компьютером по UART.",
+      "ipa": "/ðə flaɪt kənˈtroʊlər kəˈmjuːnɪkeɪts wɪð ði ˈɑːnbɔːrd kəmˈpjuːtər ˈoʊvər ˈjuːɑːrt/",
+      "pronunciationHint": "зэ флайт кэнтро́улэр кэмью́никэйтс уиз зи о́нборд кэмпью́тэр о́увэр ю-арт",
+      "note": "communicate over = обмениваться через",
+      "tags": [
+        "uav",
+        "embedded"
+      ]
+    },
+    {
+      "id": "embedded-uav-026",
+      "type": "sentence",
+      "en": "I check voltage and current before I power the system.",
+      "ru": "Я проверяю напряжение и ток перед подачей питания на систему.",
+      "ipa": "/aɪ tʃek ˈvoʊltɪdʒ ænd ˈkɜːrənt bɪˈfɔːr aɪ ˈpaʊər ðə ˈsɪstəm/",
+      "pronunciationHint": "ай чек во́ултидж энд кё́рэнт бифо́р ай па́уэр зэ си́стэм",
+      "note": "power = подать питание",
+      "tags": [
+        "electronics",
+        "safety"
+      ]
+    },
+    {
+      "id": "embedded-uav-027",
+      "type": "sentence",
+      "en": "I troubleshoot wiring and communication issues.",
+      "ru": "Я ищу и устраняю проблемы с проводкой и связью.",
+      "ipa": "/aɪ ˈtrʌbəlʃuːt ˈwaɪərɪŋ ænd kəˌmjuːnɪˈkeɪʃən ˈɪʃuːz/",
+      "pronunciationHint": "ай тра́бэлшут уа́йэринг энд кэмьюникэ́йшэн и́шьюз",
+      "note": "troubleshoot = диагностировать и устранять",
+      "tags": [
+        "embedded",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-028",
+      "type": "sentence",
+      "en": "We test the system on the ground before a flight.",
+      "ru": "Мы тестируем систему на земле перед полётом.",
+      "ipa": "/wi test ðə ˈsɪstəm ɑːn ðə ɡraʊnd bɪˈfɔːr ə flaɪt/",
+      "pronunciationHint": "уи тэст зэ си́стэм он зэ граунд бифо́р э флайт",
+      "note": "ground test = наземный тест",
+      "tags": [
+        "uav"
+      ]
+    },
+    {
+      "id": "embedded-uav-029",
+      "type": "sentence",
+      "en": "I can read wiring diagrams and hardware documentation.",
+      "ru": "Я умею читать схемы подключения и документацию по оборудованию.",
+      "ipa": "/aɪ kən riːd ˈwaɪərɪŋ ˈdaɪəɡræmz ænd ˈhɑːrdwer ˌdɑːkjəmenˈteɪʃən/",
+      "pronunciationHint": "ай кэн рид уа́йэринг да́йэгрэмз энд ха́рдвэр докьюмэнтэ́йшэн",
+      "note": "read = /riːd/ in present.",
+      "tags": [
+        "electronics",
+        "interview"
+      ]
+    },
+    {
+      "id": "embedded-uav-030",
+      "type": "sentence",
+      "en": "I use Lua scripts to extend ArduPilot behavior.",
+      "ru": "Я использую Lua-скрипты, чтобы расширять поведение ArduPilot.",
+      "ipa": "/aɪ juːz ˈluːə skrɪpts tə ɪkˈstend ˈɑːrduˌpaɪlət bɪˈheɪvjər/",
+      "pronunciationHint": "ай юз лу́а скриптс ту икстэ́нд а́рду-па́йлэт бихэ́йвйэр",
+      "note": "extend behavior = расширять поведение",
+      "tags": [
+        "uav",
+        "software",
+        "interview"
+      ]
+    }
+  ]
+}
