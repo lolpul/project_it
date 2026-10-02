@@ -1,0 +1,76 @@
+{
+  "id": "verb-patterns",
+  "title": "Verb + -ing / to + verb",
+  "level": "A2/B1",
+  "version": 1,
+  "explanationRu": "После некоторых глаголов обычно идёт -ing, после других — to + verb. Для твоего рабочего английского полезно запомнить готовые модели: enjoy working, finish testing, want to learn, need to check, try to reproduce.",
+  "examples": [
+    {
+      "en": "I want to learn more about networking.",
+      "ru": "Я хочу больше изучить networking."
+    },
+    {
+      "en": "I finished testing the device.",
+      "ru": "Я закончил тестировать устройство."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "I want ___ Go better.",
+      "answers": [
+        "learn",
+        "to learn",
+        "learning",
+        "learned"
+      ],
+      "correct": 1,
+      "explanation": "want + to + verb."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "I finished ___ the device.",
+      "answers": [
+        "test",
+        "to test",
+        "testing",
+        "tested"
+      ],
+      "correct": 2,
+      "explanation": "finish + verb-ing."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I need to ___ the logs. (check)",
+      "acceptedAnswers": [
+        "check"
+      ],
+      "explanation": "need to + base verb."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I enjoy ___ technical problems. (solve)",
+      "acceptedAnswers": [
+        "solving"
+      ],
+      "explanation": "enjoy + verb-ing."
+    },
+    {
+      "type": "translate",
+      "question": "Я стараюсь воспроизвести проблему.",
+      "acceptedAnswers": [
+        "I try to reproduce the issue.",
+        "I try to reproduce the problem."
+      ],
+      "explanation": "try to + verb."
+    },
+    {
+      "type": "translate",
+      "question": "Я закончил настраивать сервер.",
+      "acceptedAnswers": [
+        "I finished configuring the server."
+      ],
+      "explanation": "finish + verb-ing."
+    }
+  ]
+}
