@@ -1,0 +1,76 @@
+{
+  "id": "past-simple",
+  "title": "Past Simple",
+  "level": "A2",
+  "version": 1,
+  "explanationRu": "Past Simple описывает завершённые действия в прошлом. У правильных глаголов добавляем -ed: fix → fixed. У неправильных форма меняется: write → wrote. В отрицании did not + начальная форма.",
+  "examples": [
+    {
+      "en": "Yesterday I fixed a networking issue.",
+      "ru": "Вчера я исправил проблему с сетью."
+    },
+    {
+      "en": "We tested the device on the bench.",
+      "ru": "Мы проверили устройство на стенде."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "question": "Yesterday I ___ a bug.",
+      "answers": [
+        "fix",
+        "fixes",
+        "fixed",
+        "fixing"
+      ],
+      "correct": 2,
+      "explanation": "Yesterday указывает на прошлое: fix → fixed."
+    },
+    {
+      "type": "multiple_choice",
+      "question": "I ___ the code last week.",
+      "answers": [
+        "write",
+        "wrote",
+        "writing",
+        "writes"
+      ],
+      "correct": 1,
+      "explanation": "Write — неправильный глагол, его прошедшая форма wrote."
+    },
+    {
+      "type": "fill_blank",
+      "question": "We ___ the device yesterday. (test)",
+      "acceptedAnswers": [
+        "tested"
+      ],
+      "explanation": "Правильный глагол test получает окончание -ed."
+    },
+    {
+      "type": "fill_blank",
+      "question": "I did not ___ the settings. (change)",
+      "acceptedAnswers": [
+        "change"
+      ],
+      "explanation": "После did not нужна начальная форма change."
+    },
+    {
+      "type": "translate",
+      "question": "Вчера я исправил проблему с сетью.",
+      "acceptedAnswers": [
+        "Yesterday I fixed a networking issue.",
+        "I fixed a networking issue yesterday."
+      ],
+      "explanation": "Прошедшее действие: fixed; networking issue = проблема с сетью."
+    },
+    {
+      "type": "translate",
+      "question": "Мы проверили устройство.",
+      "acceptedAnswers": [
+        "We tested the device."
+      ],
+      "explanation": "Test → tested. The device = конкретное устройство."
+    }
+  ]
+}
