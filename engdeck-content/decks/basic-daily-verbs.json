@@ -1,0 +1,791 @@
+{
+  "id": "basic-daily-verbs",
+  "title": "Basic daily verbs",
+  "description": "Core A0/A1 verbs in simple first-person phrases for everyday speaking.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "verbs-001",
+      "type": "phrase",
+      "en": "I am",
+      "ru": "я есть / я являюсь",
+      "ipa": "/aɪ æm/",
+      "pronunciationHint": "ай эм",
+      "note": "be: am/is/are; past: was/were",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-002",
+      "type": "phrase",
+      "en": "I have",
+      "ru": "у меня есть",
+      "ipa": "/aɪ hæv/",
+      "pronunciationHint": "ай хэв",
+      "note": "have — had — had",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-003",
+      "type": "phrase",
+      "en": "I do",
+      "ru": "я делаю",
+      "ipa": "/aɪ duː/",
+      "pronunciationHint": "ай ду",
+      "note": "do — did — done",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-004",
+      "type": "phrase",
+      "en": "I go",
+      "ru": "я иду / еду",
+      "ipa": "/aɪ ɡoʊ/",
+      "pronunciationHint": "ай гоу",
+      "note": "go — went — gone",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-005",
+      "type": "phrase",
+      "en": "I come",
+      "ru": "я прихожу / приезжаю",
+      "ipa": "/aɪ kʌm/",
+      "pronunciationHint": "ай кам",
+      "note": "come — came — come",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-006",
+      "type": "phrase",
+      "en": "I get",
+      "ru": "я получаю / добираюсь",
+      "ipa": "/aɪ ɡet/",
+      "pronunciationHint": "ай гет",
+      "note": "get — got — got/gotten",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-007",
+      "type": "phrase",
+      "en": "I make",
+      "ru": "я делаю / создаю",
+      "ipa": "/aɪ meɪk/",
+      "pronunciationHint": "ай мэйк",
+      "note": "make — made — made",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-008",
+      "type": "phrase",
+      "en": "I take",
+      "ru": "я беру",
+      "ipa": "/aɪ teɪk/",
+      "pronunciationHint": "ай тэйк",
+      "note": "take — took — taken",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-009",
+      "type": "phrase",
+      "en": "I give",
+      "ru": "я даю",
+      "ipa": "/aɪ ɡɪv/",
+      "pronunciationHint": "ай гив",
+      "note": "give — gave — given",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-010",
+      "type": "phrase",
+      "en": "I put",
+      "ru": "я кладу / ставлю",
+      "ipa": "/aɪ pʊt/",
+      "pronunciationHint": "ай пут",
+      "note": "put — put — put",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-011",
+      "type": "phrase",
+      "en": "I bring",
+      "ru": "я приношу / привожу",
+      "ipa": "/aɪ brɪŋ/",
+      "pronunciationHint": "ай бринг",
+      "note": "bring — brought — brought",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-012",
+      "type": "phrase",
+      "en": "I keep",
+      "ru": "я держу / сохраняю",
+      "ipa": "/aɪ kiːp/",
+      "pronunciationHint": "ай кип",
+      "note": "keep — kept — kept",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-013",
+      "type": "phrase",
+      "en": "I know",
+      "ru": "я знаю",
+      "ipa": "/aɪ noʊ/",
+      "pronunciationHint": "ай ноу",
+      "note": "know — knew — known",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-014",
+      "type": "phrase",
+      "en": "I think",
+      "ru": "я думаю",
+      "ipa": "/aɪ θɪŋk/",
+      "pronunciationHint": "ай синк",
+      "note": "think — thought — thought",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-015",
+      "type": "phrase",
+      "en": "I understand",
+      "ru": "я понимаю",
+      "ipa": "/aɪ ˌʌndərˈstænd/",
+      "pronunciationHint": "ай андэрстэ́нд",
+      "note": "understand — understood — understood",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-016",
+      "type": "phrase",
+      "en": "I want",
+      "ru": "я хочу",
+      "ipa": "/aɪ wɑːnt/",
+      "pronunciationHint": "ай уонт",
+      "note": "want to + verb",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-017",
+      "type": "phrase",
+      "en": "I need",
+      "ru": "мне нужно / я нуждаюсь",
+      "ipa": "/aɪ niːd/",
+      "pronunciationHint": "ай нид",
+      "note": "need to + verb",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-018",
+      "type": "phrase",
+      "en": "I like",
+      "ru": "мне нравится / я люблю",
+      "ipa": "/aɪ laɪk/",
+      "pronunciationHint": "ай лайк",
+      "note": "like + noun / like + -ing",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-019",
+      "type": "phrase",
+      "en": "I work",
+      "ru": "я работаю",
+      "ipa": "/aɪ wɜːrk/",
+      "pronunciationHint": "ай уорк",
+      "note": "work with / work on",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-020",
+      "type": "phrase",
+      "en": "I study",
+      "ru": "я учусь / изучаю",
+      "ipa": "/aɪ ˈstʌdi/",
+      "pronunciationHint": "ай ста́ди",
+      "note": "study — studied — studied",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-021",
+      "type": "phrase",
+      "en": "I learn",
+      "ru": "я учу / изучаю",
+      "ipa": "/aɪ lɜːrn/",
+      "pronunciationHint": "ай лёрн",
+      "note": "learn — learned/learnt",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-022",
+      "type": "phrase",
+      "en": "I write",
+      "ru": "я пишу",
+      "ipa": "/aɪ raɪt/",
+      "pronunciationHint": "ай райт",
+      "note": "write — wrote — written",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-023",
+      "type": "phrase",
+      "en": "I read",
+      "ru": "я читаю",
+      "ipa": "/aɪ riːd/",
+      "pronunciationHint": "ай рид",
+      "note": "Present /riːd/, past /red/: read — read — read",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-024",
+      "type": "phrase",
+      "en": "I speak",
+      "ru": "я говорю",
+      "ipa": "/aɪ spiːk/",
+      "pronunciationHint": "ай спик",
+      "note": "speak — spoke — spoken",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-025",
+      "type": "phrase",
+      "en": "I say",
+      "ru": "я говорю / произношу",
+      "ipa": "/aɪ seɪ/",
+      "pronunciationHint": "ай сэй",
+      "note": "say — said — said",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-026",
+      "type": "phrase",
+      "en": "I tell",
+      "ru": "я рассказываю / говорю кому-то",
+      "ipa": "/aɪ tel/",
+      "pronunciationHint": "ай тэл",
+      "note": "tell — told — told",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-027",
+      "type": "phrase",
+      "en": "I ask",
+      "ru": "я спрашиваю",
+      "ipa": "/aɪ æsk/",
+      "pronunciationHint": "ай аск",
+      "note": "ask a question",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-028",
+      "type": "phrase",
+      "en": "I answer",
+      "ru": "я отвечаю",
+      "ipa": "/aɪ ˈænsər/",
+      "pronunciationHint": "ай э́нсэр",
+      "note": "answer a question",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-029",
+      "type": "phrase",
+      "en": "I listen",
+      "ru": "я слушаю",
+      "ipa": "/aɪ ˈlɪsən/",
+      "pronunciationHint": "ай ли́сэн",
+      "note": "listen to music / listen to a person",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-030",
+      "type": "phrase",
+      "en": "I hear",
+      "ru": "я слышу",
+      "ipa": "/aɪ hɪr/",
+      "pronunciationHint": "ай хир",
+      "note": "hear — heard — heard",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-031",
+      "type": "phrase",
+      "en": "I see",
+      "ru": "я вижу",
+      "ipa": "/aɪ siː/",
+      "pronunciationHint": "ай си",
+      "note": "see — saw — seen",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-032",
+      "type": "phrase",
+      "en": "I look",
+      "ru": "я смотрю",
+      "ipa": "/aɪ lʊk/",
+      "pronunciationHint": "ай лук",
+      "note": "look at = смотреть на",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-033",
+      "type": "phrase",
+      "en": "I watch",
+      "ru": "я смотрю / наблюдаю",
+      "ipa": "/aɪ wɑːtʃ/",
+      "pronunciationHint": "ай уоч",
+      "note": "watch a video / watch TV",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-034",
+      "type": "phrase",
+      "en": "I eat",
+      "ru": "я ем",
+      "ipa": "/aɪ iːt/",
+      "pronunciationHint": "ай ит",
+      "note": "eat — ate — eaten",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-035",
+      "type": "phrase",
+      "en": "I drink",
+      "ru": "я пью",
+      "ipa": "/aɪ drɪŋk/",
+      "pronunciationHint": "ай дринк",
+      "note": "drink — drank — drunk",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-036",
+      "type": "phrase",
+      "en": "I sleep",
+      "ru": "я сплю",
+      "ipa": "/aɪ sliːp/",
+      "pronunciationHint": "ай слип",
+      "note": "sleep — slept — slept",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-037",
+      "type": "phrase",
+      "en": "I wake up",
+      "ru": "я просыпаюсь",
+      "ipa": "/aɪ weɪk ʌp/",
+      "pronunciationHint": "ай уэйк ап",
+      "note": "wake up — woke up — woken up",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-038",
+      "type": "phrase",
+      "en": "I get up",
+      "ru": "я встаю",
+      "ipa": "/aɪ ɡet ʌp/",
+      "pronunciationHint": "ай гет ап",
+      "note": "get up = встать с кровати / со стула",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-039",
+      "type": "phrase",
+      "en": "I walk",
+      "ru": "я хожу / иду пешком",
+      "ipa": "/aɪ wɔːk/",
+      "pronunciationHint": "ай уок",
+      "note": "walk = идти пешком",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-040",
+      "type": "phrase",
+      "en": "I run",
+      "ru": "я бегу / бегаю",
+      "ipa": "/aɪ rʌn/",
+      "pronunciationHint": "ай ран",
+      "note": "run — ran — run",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-041",
+      "type": "phrase",
+      "en": "I drive",
+      "ru": "я еду за рулём / вожу",
+      "ipa": "/aɪ draɪv/",
+      "pronunciationHint": "ай драйв",
+      "note": "drive — drove — driven",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-042",
+      "type": "phrase",
+      "en": "I ride",
+      "ru": "я еду верхом / на велосипеде / мотоцикле",
+      "ipa": "/aɪ raɪd/",
+      "pronunciationHint": "ай райд",
+      "note": "ride — rode — ridden",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-043",
+      "type": "phrase",
+      "en": "I fly",
+      "ru": "я летаю / лечу",
+      "ipa": "/aɪ flaɪ/",
+      "pronunciationHint": "ай флай",
+      "note": "fly — flew — flown",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-044",
+      "type": "phrase",
+      "en": "I sit",
+      "ru": "я сижу",
+      "ipa": "/aɪ sɪt/",
+      "pronunciationHint": "ай сит",
+      "note": "sit — sat — sat",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-045",
+      "type": "phrase",
+      "en": "I stand",
+      "ru": "я стою",
+      "ipa": "/aɪ stænd/",
+      "pronunciationHint": "ай стэнд",
+      "note": "stand — stood — stood",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-046",
+      "type": "phrase",
+      "en": "I open",
+      "ru": "я открываю",
+      "ipa": "/aɪ ˈoʊpən/",
+      "pronunciationHint": "ай о́упэн",
+      "note": "open the door / open a file",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-047",
+      "type": "phrase",
+      "en": "I close",
+      "ru": "я закрываю",
+      "ipa": "/aɪ kloʊz/",
+      "pronunciationHint": "ай клоуз",
+      "note": "close the door / close the app",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-048",
+      "type": "phrase",
+      "en": "I start",
+      "ru": "я начинаю / запускаю",
+      "ipa": "/aɪ stɑːrt/",
+      "pronunciationHint": "ай старт",
+      "note": "start working / start the service",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-049",
+      "type": "phrase",
+      "en": "I stop",
+      "ru": "я останавливаюсь / прекращаю",
+      "ipa": "/aɪ stɑːp/",
+      "pronunciationHint": "ай стоп",
+      "note": "stop working / stop the service",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-050",
+      "type": "phrase",
+      "en": "I wait",
+      "ru": "я жду",
+      "ipa": "/aɪ weɪt/",
+      "pronunciationHint": "ай уэйт",
+      "note": "wait for = ждать кого-то/что-то",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-051",
+      "type": "phrase",
+      "en": "I help",
+      "ru": "я помогаю",
+      "ipa": "/aɪ help/",
+      "pronunciationHint": "ай хэлп",
+      "note": "help someone / help with something",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-052",
+      "type": "phrase",
+      "en": "I try",
+      "ru": "я пытаюсь / пробую",
+      "ipa": "/aɪ traɪ/",
+      "pronunciationHint": "ай трай",
+      "note": "try to + verb",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-053",
+      "type": "phrase",
+      "en": "I buy",
+      "ru": "я покупаю",
+      "ipa": "/aɪ baɪ/",
+      "pronunciationHint": "ай бай",
+      "note": "buy — bought — bought",
+      "tags": [
+        "daily",
+        "verbs",
+        "shopping"
+      ]
+    },
+    {
+      "id": "verbs-054",
+      "type": "phrase",
+      "en": "I pay",
+      "ru": "я плачу",
+      "ipa": "/aɪ peɪ/",
+      "pronunciationHint": "ай пэй",
+      "note": "pay — paid — paid",
+      "tags": [
+        "daily",
+        "verbs",
+        "shopping"
+      ]
+    },
+    {
+      "id": "verbs-055",
+      "type": "phrase",
+      "en": "I wear",
+      "ru": "я ношу",
+      "ipa": "/aɪ wer/",
+      "pronunciationHint": "ай уэр",
+      "note": "wear — wore — worn",
+      "tags": [
+        "daily",
+        "verbs",
+        "clothes"
+      ]
+    },
+    {
+      "id": "verbs-056",
+      "type": "phrase",
+      "en": "I choose",
+      "ru": "я выбираю",
+      "ipa": "/aɪ tʃuːz/",
+      "pronunciationHint": "ай чуз",
+      "note": "choose — chose — chosen",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-057",
+      "type": "phrase",
+      "en": "I change",
+      "ru": "я меняю",
+      "ipa": "/aɪ tʃeɪndʒ/",
+      "pronunciationHint": "ай чейндж",
+      "note": "change clothes / change settings",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-058",
+      "type": "phrase",
+      "en": "I use",
+      "ru": "я использую",
+      "ipa": "/aɪ juːz/",
+      "pronunciationHint": "ай юз",
+      "note": "use a tool / use an app",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-059",
+      "type": "phrase",
+      "en": "I find",
+      "ru": "я нахожу",
+      "ipa": "/aɪ faɪnd/",
+      "pronunciationHint": "ай файнд",
+      "note": "find — found — found",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    },
+    {
+      "id": "verbs-060",
+      "type": "phrase",
+      "en": "I remember",
+      "ru": "я помню",
+      "ipa": "/aɪ rɪˈmembər/",
+      "pronunciationHint": "ай римэ́мбэр",
+      "note": "remember = помнить",
+      "tags": [
+        "daily",
+        "verbs"
+      ]
+    }
+  ]
+}
