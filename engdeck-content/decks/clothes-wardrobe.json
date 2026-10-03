@@ -1,0 +1,596 @@
+{
+  "id": "clothes-wardrobe",
+  "title": "Clothes & wardrobe",
+  "description": "Basic A0/A1 clothing, footwear and wardrobe vocabulary for everyday English.",
+  "version": 1,
+  "cards": [
+    {
+      "id": "clothes-001",
+      "type": "word",
+      "en": "clothes",
+      "ru": "одежда",
+      "ipa": "/kloʊðz/",
+      "pronunciationHint": "клоуз",
+      "note": "clothes is plural: These clothes are new.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-002",
+      "type": "word",
+      "en": "a wardrobe",
+      "ru": "гардероб / шкаф для одежды",
+      "ipa": "/ə ˈwɔːrdroʊb/",
+      "pronunciationHint": "э уо́рдроуб",
+      "note": "wardrobe can mean a clothes collection or a clothes cabinet.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-003",
+      "type": "word",
+      "en": "a T-shirt",
+      "ru": "футболка",
+      "ipa": "/ə ˈtiː ʃɜːrt/",
+      "pronunciationHint": "э ти-шёрт",
+      "note": "I wear a T-shirt.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-004",
+      "type": "word",
+      "en": "a shirt",
+      "ru": "рубашка",
+      "ipa": "/ə ʃɜːrt/",
+      "pronunciationHint": "э шёрт",
+      "note": "shirt = рубашка",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-005",
+      "type": "word",
+      "en": "a sweater",
+      "ru": "свитер",
+      "ipa": "/ə ˈswetər/",
+      "pronunciationHint": "э свэ́тэр",
+      "note": "American English: sweater.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-006",
+      "type": "word",
+      "en": "a hoodie",
+      "ru": "худи",
+      "ipa": "/ə ˈhʊdi/",
+      "pronunciationHint": "э ху́ди",
+      "note": "hoodie = худи / толстовка с капюшоном",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-007",
+      "type": "word",
+      "en": "a jacket",
+      "ru": "куртка / пиджак",
+      "ipa": "/ə ˈdʒækɪt/",
+      "pronunciationHint": "э джэ́кит",
+      "note": "Context decides whether it means outerwear or a suit jacket.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-008",
+      "type": "word",
+      "en": "a coat",
+      "ru": "пальто",
+      "ipa": "/ə koʊt/",
+      "pronunciationHint": "э коут",
+      "note": "winter coat = зимнее пальто",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-009",
+      "type": "word",
+      "en": "jeans",
+      "ru": "джинсы",
+      "ipa": "/dʒiːnz/",
+      "pronunciationHint": "джинз",
+      "note": "Use plural: These jeans are comfortable.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-010",
+      "type": "word",
+      "en": "pants",
+      "ru": "брюки / штаны",
+      "ipa": "/pænts/",
+      "pronunciationHint": "пэнтс",
+      "note": "American English. British English often uses trousers.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-011",
+      "type": "word",
+      "en": "trousers",
+      "ru": "брюки",
+      "ipa": "/ˈtraʊzərz/",
+      "pronunciationHint": "тра́узэрз",
+      "note": "Common in British English.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-012",
+      "type": "word",
+      "en": "shorts",
+      "ru": "шорты",
+      "ipa": "/ʃɔːrts/",
+      "pronunciationHint": "шортс",
+      "note": "Use plural: These shorts are new.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-013",
+      "type": "word",
+      "en": "a suit",
+      "ru": "костюм",
+      "ipa": "/ə suːt/",
+      "pronunciationHint": "э сут",
+      "note": "business suit = деловой костюм",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-014",
+      "type": "word",
+      "en": "a blazer",
+      "ru": "блейзер / пиджак",
+      "ipa": "/ə ˈbleɪzər/",
+      "pronunciationHint": "э блэ́йзэр",
+      "note": "smart-casual clothing",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-015",
+      "type": "word",
+      "en": "a dress",
+      "ru": "платье",
+      "ipa": "/ə dres/",
+      "pronunciationHint": "э дрэс",
+      "note": "dress = платье",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-016",
+      "type": "word",
+      "en": "a skirt",
+      "ru": "юбка",
+      "ipa": "/ə skɜːrt/",
+      "pronunciationHint": "э скёрт",
+      "note": "skirt = юбка",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-017",
+      "type": "word",
+      "en": "underwear",
+      "ru": "нижнее бельё",
+      "ipa": "/ˈʌndərwer/",
+      "pronunciationHint": "а́ндэрвэр",
+      "note": "Usually uncountable.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-018",
+      "type": "word",
+      "en": "socks",
+      "ru": "носки",
+      "ipa": "/sɑːks/",
+      "pronunciationHint": "сокс",
+      "note": "a pair of socks = пара носков",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-019",
+      "type": "word",
+      "en": "shoes",
+      "ru": "туфли / обувь",
+      "ipa": "/ʃuːz/",
+      "pronunciationHint": "шуз",
+      "note": "a pair of shoes = пара обуви",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-020",
+      "type": "word",
+      "en": "sneakers",
+      "ru": "кроссовки",
+      "ipa": "/ˈsniːkərz/",
+      "pronunciationHint": "сни́кэрз",
+      "note": "American English; trainers in British English.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-021",
+      "type": "word",
+      "en": "boots",
+      "ru": "ботинки / сапоги",
+      "ipa": "/buːts/",
+      "pronunciationHint": "бутс",
+      "note": "boots = ботинки или сапоги depending on context.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-022",
+      "type": "word",
+      "en": "loafers",
+      "ru": "лоферы",
+      "ipa": "/ˈloʊfərz/",
+      "pronunciationHint": "ло́уфэрз",
+      "note": "a pair of loafers",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-023",
+      "type": "word",
+      "en": "a belt",
+      "ru": "ремень",
+      "ipa": "/ə belt/",
+      "pronunciationHint": "э бэлт",
+      "note": "wear a belt = носить ремень",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-024",
+      "type": "word",
+      "en": "a cap",
+      "ru": "кепка",
+      "ipa": "/ə kæp/",
+      "pronunciationHint": "э кэп",
+      "note": "baseball cap = бейсболка",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-025",
+      "type": "word",
+      "en": "a hat",
+      "ru": "шляпа / головной убор",
+      "ipa": "/ə hæt/",
+      "pronunciationHint": "э хэт",
+      "note": "hat is a general word for many head coverings.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-026",
+      "type": "word",
+      "en": "a scarf",
+      "ru": "шарф",
+      "ipa": "/ə skɑːrf/",
+      "pronunciationHint": "э скарф",
+      "note": "wear a scarf = носить шарф",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-027",
+      "type": "word",
+      "en": "gloves",
+      "ru": "перчатки",
+      "ipa": "/ɡlʌvz/",
+      "pronunciationHint": "главз",
+      "note": "a pair of gloves = пара перчаток",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-028",
+      "type": "word",
+      "en": "a backpack",
+      "ru": "рюкзак",
+      "ipa": "/ə ˈbækpæk/",
+      "pronunciationHint": "э бэ́кпэк",
+      "note": "backpack = рюкзак",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-029",
+      "type": "word",
+      "en": "a bag",
+      "ru": "сумка",
+      "ipa": "/ə bæɡ/",
+      "pronunciationHint": "э бэг",
+      "note": "bag = сумка",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-030",
+      "type": "word",
+      "en": "a watch",
+      "ru": "наручные часы",
+      "ipa": "/ə wɑːtʃ/",
+      "pronunciationHint": "э уоч",
+      "note": "watch = наручные часы",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-031",
+      "type": "word",
+      "en": "glasses",
+      "ru": "очки",
+      "ipa": "/ˈɡlæsɪz/",
+      "pronunciationHint": "глэ́сиз",
+      "note": "a pair of glasses = очки",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-032",
+      "type": "word",
+      "en": "a pocket",
+      "ru": "карман",
+      "ipa": "/ə ˈpɑːkɪt/",
+      "pronunciationHint": "э па́кит",
+      "note": "in my pocket = в моём кармане",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-033",
+      "type": "word",
+      "en": "a sleeve",
+      "ru": "рукав",
+      "ipa": "/ə sliːv/",
+      "pronunciationHint": "э слив",
+      "note": "long sleeves = длинные рукава",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-034",
+      "type": "word",
+      "en": "a collar",
+      "ru": "воротник",
+      "ipa": "/ə ˈkɑːlər/",
+      "pronunciationHint": "э ка́лэр",
+      "note": "shirt collar = воротник рубашки",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-035",
+      "type": "word",
+      "en": "a zipper",
+      "ru": "молния",
+      "ipa": "/ə ˈzɪpər/",
+      "pronunciationHint": "э зи́пэр",
+      "note": "zipper = застёжка-молния",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-036",
+      "type": "word",
+      "en": "a button",
+      "ru": "пуговица",
+      "ipa": "/ə ˈbʌtən/",
+      "pronunciationHint": "э ба́тэн",
+      "note": "button = пуговица",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-037",
+      "type": "word",
+      "en": "a hanger",
+      "ru": "вешалка",
+      "ipa": "/ə ˈhæŋər/",
+      "pronunciationHint": "э хэ́нгэр",
+      "note": "Put the shirt on a hanger.",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-038",
+      "type": "phrase",
+      "en": "my size",
+      "ru": "мой размер",
+      "ipa": "/maɪ saɪz/",
+      "pronunciationHint": "май сайз",
+      "note": "What size do you wear?",
+      "tags": [
+        "daily",
+        "clothes",
+        "shopping"
+      ]
+    },
+    {
+      "id": "clothes-039",
+      "type": "phrase",
+      "en": "it fits well",
+      "ru": "это хорошо сидит",
+      "ipa": "/ɪt fɪts wel/",
+      "pronunciationHint": "ит фитс уэл",
+      "note": "fit = подходить по размеру / сидеть",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-040",
+      "type": "phrase",
+      "en": "too small",
+      "ru": "слишком маленький / тесный",
+      "ipa": "/tuː smɔːl/",
+      "pronunciationHint": "ту смол",
+      "note": "This shirt is too small.",
+      "tags": [
+        "daily",
+        "clothes",
+        "shopping"
+      ]
+    },
+    {
+      "id": "clothes-041",
+      "type": "phrase",
+      "en": "too big",
+      "ru": "слишком большой",
+      "ipa": "/tuː bɪɡ/",
+      "pronunciationHint": "ту биг",
+      "note": "These pants are too big.",
+      "tags": [
+        "daily",
+        "clothes",
+        "shopping"
+      ]
+    },
+    {
+      "id": "clothes-042",
+      "type": "phrase",
+      "en": "I wear jeans.",
+      "ru": "Я ношу джинсы.",
+      "ipa": "/aɪ wer dʒiːnz/",
+      "pronunciationHint": "ай уэр джинз",
+      "note": "wear = носить одежду",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-043",
+      "type": "phrase",
+      "en": "I put on my jacket.",
+      "ru": "Я надеваю куртку.",
+      "ipa": "/aɪ pʊt ɑːn maɪ ˈdʒækɪt/",
+      "pronunciationHint": "ай пут он май джэ́кит",
+      "note": "put on = надевать",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-044",
+      "type": "phrase",
+      "en": "I take off my shoes.",
+      "ru": "Я снимаю обувь.",
+      "ipa": "/aɪ teɪk ɔːf maɪ ʃuːz/",
+      "pronunciationHint": "ай тэйк оф май шуз",
+      "note": "take off = снимать одежду",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    },
+    {
+      "id": "clothes-045",
+      "type": "phrase",
+      "en": "I get dressed.",
+      "ru": "Я одеваюсь.",
+      "ipa": "/aɪ ɡet drest/",
+      "pronunciationHint": "ай гет дрэст",
+      "note": "get dressed = одеваться",
+      "tags": [
+        "daily",
+        "clothes"
+      ]
+    }
+  ]
+}
