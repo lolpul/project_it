@@ -119,6 +119,18 @@
       "version": 1,
       "kind": "grammar",
       "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/grammar/conditionals-basics.json"
+    },
+    {
+      "id": "clothes-wardrobe",
+      "title": "Clothes & wardrobe",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/clothes-wardrobe.json"
+    },
+    {
+      "id": "basic-daily-verbs",
+      "title": "Basic daily verbs",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/lolpul/project_it/engdeck-content/engdeck-content/decks/basic-daily-verbs.json"
     }
   ]
 }
